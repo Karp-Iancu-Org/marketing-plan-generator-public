@@ -1,0 +1,158 @@
+<!--
+TEMPLATE: EXECUTIVE-BRIEF.template.html
+PURPOSE: The decision-maker deliverable — a 3–5 page PDF brief summarizing one
+  plan (instantiate TWICE: once for the paid plan, once for the organic plan;
+  identical design so they present as a pair). Render with:
+    chrome --headless --disable-gpu --no-pdf-header-footer \
+      --print-to-pdf=EXECUTIVE-BRIEF[-ORGANIC].pdf this-file.html
+INPUTS: the finished plan docs — the brief SUMMARIZES them, it never introduces
+  new claims. Every number in a stat tile must exist in a plan doc.
+GENERATOR ACTIONS:
+  1. Replace every {{PLACEHOLDER}}; delete all template comments.
+  2. Keep the section skeleton (intro → tiles → core insight → what/who →
+     how-it-works steps → coupling callout → investment & rollout → how we'll
+     know → risks → sources). Cut sections that don't apply; don't add jargon.
+  3. Executive language only: no ABO/CBO, Andromeda, 70/20/10, CAPI — describe
+     the mechanism in plain words.
+  4. After rendering, VIEW the PDF and check page breaks — no heading may
+     dangle at a page bottom (the h2+.rule break-after rule handles most cases).
+QA CHECKLIST:
+  [ ] Every tile number traces to a plan doc.  [ ] 3–5 pages.  [ ] No jargon.
+  [ ] Footer names the companion brief.  [ ] Confidential kicker updated.
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Executive Brief — {{PLAN_NAME}}</title>
+<style>
+  @page { size: letter; margin: 0.9in 1in; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body {
+    font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 10.5pt; line-height: 1.55; color: #333a45;
+  }
+  /* Swap the two brand hues for the client: --navy for structure, --gold for accents */
+  .toprule { border-top: 4px solid {{BRAND_DARK|#1d3050}}; margin-bottom: 22px; }
+  .kicker {
+    font-size: 8pt; font-weight: 700; letter-spacing: 0.28em;
+    color: {{BRAND_ACCENT|#b08d3f}}; text-transform: uppercase; margin-bottom: 14px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", serif; font-size: 24pt;
+    line-height: 1.2; color: {{BRAND_DARK|#1d3050}}; margin-bottom: 8px; font-weight: 700;
+  }
+  .subtitle { font-size: 11pt; color: #7b8494; margin-bottom: 18px; }
+  .hairline { border: none; border-top: 1px solid #d9dde3; margin: 18px 0; }
+  p { margin-bottom: 11px; }
+  b, strong { color: #2a3240; }
+  h2 {
+    font-family: Georgia, "Times New Roman", serif; font-size: 14.5pt;
+    color: {{BRAND_DARK|#1d3050}}; margin: 26px 0 4px 0; font-weight: 700;
+    break-after: avoid;
+  }
+  h2 + .rule { border-top: 1px solid #d9dde3; margin-bottom: 12px; break-after: avoid; }
+  .tiles { display: flex; gap: 12px; margin: 18px 0 6px 0; }
+  .tile { flex: 1; background: #f4f5f7; border-top: 3px solid {{BRAND_ACCENT|#b08d3f}}; padding: 12px 12px 14px 12px; }
+  .tile .num { font-family: Georgia, serif; font-size: 17pt; color: {{BRAND_DARK|#1d3050}}; margin-bottom: 4px; }
+  .tile .cap { font-size: 8.2pt; color: #7b8494; line-height: 1.45; }
+  .tile .cap b { color: #4a5260; }
+  .callout { background: #f4f5f7; border-left: 4px solid {{BRAND_ACCENT|#b08d3f}}; padding: 12px 16px; margin: 14px 0; font-size: 10pt; }
+  table { width: 100%; border-collapse: collapse; margin: 10px 0 14px 0; }
+  th { text-align: left; font-size: 8.2pt; letter-spacing: 0.12em; text-transform: uppercase;
+       color: #7b8494; font-weight: 700; padding: 6px 10px 6px 0; border-bottom: 2px solid {{BRAND_DARK|#1d3050}}; }
+  td { padding: 8px 10px 8px 0; border-bottom: 1px solid #e2e5ea; vertical-align: top; font-size: 9.8pt; }
+  td.k { font-weight: 700; color: #2a3240; width: 30%; }
+  ol.steps { list-style: none; counter-reset: step; margin: 8px 0 12px 0; }
+  ol.steps li { counter-increment: step; position: relative; padding-left: 34px; margin-bottom: 10px; }
+  ol.steps li::before {
+    content: counter(step); position: absolute; left: 0; top: 1px;
+    width: 20px; height: 20px; border-radius: 50%; background: {{BRAND_DARK|#1d3050}}; color: #fff;
+    font-size: 9pt; font-weight: 700; text-align: center; line-height: 20px;
+  }
+  .phase { display: flex; margin-bottom: 10px; }
+  .phase .when { flex: 0 0 110px; font-family: Georgia, serif; font-weight: 700;
+                 color: {{BRAND_ACCENT|#b08d3f}}; font-size: 10pt; padding-top: 1px; }
+  .phase .what { flex: 1; }
+  ul.plain { margin: 6px 0 12px 18px; }
+  ul.plain li { margin-bottom: 7px; }
+  .sources { font-size: 8.2pt; color: #8a92a0; border-top: 1px solid #d9dde3; padding-top: 10px; margin-top: 24px; }
+  .avoid-break { break-inside: avoid; }
+</style>
+</head>
+<body>
+
+<div class="toprule"></div>
+<div class="kicker">{{BUSINESS_NAME}} &nbsp;·&nbsp; Confidential &nbsp;·&nbsp; {{MONTH_YEAR}}</div>
+<h1>{{BRIEF_TITLE}}</h1>
+<!-- Paid: "A Data-Driven Growth Plan for the X Practice/Business". Organic: "An Organic Social Plan for ..." -->
+<div class="subtitle">Executive brief — {{SUBTITLE}}</div>
+<!-- e.g. "what we're doing, why it will work, what it costs, and how we'll measure it";
+     the organic brief's subtitle should name it as the companion to the paid brief -->
+<hr class="hairline">
+
+<p>{{INTRO_PARAGRAPH}}</p>
+<!-- One paragraph. Lead with the data-backed finding that justifies THIS plan, in plain
+     language. Paid: the value-concentration insight (top cohort vs bottom, who chooses on
+     what). Organic: the niche's organic-discovery/research-behavior evidence. -->
+
+<div class="tiles">
+  <!-- Exactly 4 tiles. Each number must exist in a plan doc. -->
+  <div class="tile"><div class="num">{{STAT_1}}</div><div class="cap">{{STAT_1_CAPTION}}</div></div>
+  <div class="tile"><div class="num">{{STAT_2}}</div><div class="cap">{{STAT_2_CAPTION}}</div></div>
+  <div class="tile"><div class="num">{{STAT_3}}</div><div class="cap">{{STAT_3_CAPTION}}</div></div>
+  <div class="tile"><div class="num">{{STAT_4}}</div><div class="cap">{{STAT_4_CAPTION}}</div></div>
+</div>
+
+<h2>The core insight</h2><div class="rule"></div>
+{{CORE_INSIGHT_PARAGRAPHS}}
+<!-- 2–3 paragraphs. Paid: value concentration + the creative-is-the-targeting shift +
+     the quality filter. Organic: interest media + the saves thesis + the educator model. -->
+
+<h2>{{WHO_OR_WHAT_HEADING}}</h2><div class="rule"></div>
+<!-- Paid: "Who we're targeting" — avatar table + the who-we-stop-attracting callout.
+     Organic: "What we'll publish" — the pillar table. Use the td.k class for first column. -->
+{{WHO_OR_WHAT_TABLE}}
+
+<h2>{{HOW_HEADING}}</h2><div class="rule"></div>
+<!-- Paid: "How the system works". Organic: "How it gets made without consuming the firm/team". -->
+<p>{{HOW_LEAD_IN}}</p>
+<ol class="steps">
+  {{HOW_STEPS}}
+  <!-- 4–6 <li> items, each opening with a <b>bolded claim.</b> then one plain-language
+       explanation. No jargon. -->
+</ol>
+
+<div class="callout"><b>{{COUPLING_CALLOUT_LEAD}}:</b> {{COUPLING_CALLOUT_BODY}}</div>
+<!-- Both briefs carry this: the paid brief's "why this compounds" (per-ad revenue
+     attribution reallocates budget); the organic brief's "how organic and paid work
+     together" (weekly outliers get one appended CTA line and become pre-validated ads). -->
+
+<h2>Investment and rollout</h2><div class="rule"></div>
+<p>{{INVESTMENT_PARAGRAPH}}</p>
+<!-- Paid: the budget and the creative-volume commitment. Organic: "Media budget: $0" +
+     the real costs (recording hours, the weekly ritual, the pipeline build). -->
+<div class="phase avoid-break"><div class="when">Weeks 1–4</div><div class="what"><b>Foundation.</b> {{PHASE_A}}</div></div>
+<div class="phase avoid-break"><div class="when">Months 2–3</div><div class="what"><b>{{PHASE_B_NAME}}.</b> {{PHASE_B}}</div></div>
+<div class="phase avoid-break"><div class="when">Months 4–12</div><div class="what"><b>Compounding.</b> {{PHASE_C}}</div></div>
+
+<h2>How we'll know it's working</h2><div class="rule"></div>
+<ul class="plain">
+  {{KPI_BULLETS}}
+  <!-- 4 bullets, each <b>metric name</b> — plain-language definition and target.
+       Close with the vanity-metrics disavowal paragraph below. -->
+</ul>
+<p>{{VANITY_DISAVOWAL}}</p>
+
+<h2 class="avoid-break">Risks we're managing up front</h2><div class="rule"></div>
+<ul class="plain">
+  {{RISK_BULLETS}}
+  <!-- 4 bullets: capacity/burnout, compliance (name the real regime), brand safety /
+       tracking integrity, key-person dependence. -->
+</ul>
+
+<div class="sources">Sources: {{SOURCES_LINE}}. Full operating detail lives in the {{PLAN_FOLDER}} plan folder; this brief summarizes it. Companion document: <i>{{COMPANION_BRIEF_TITLE}}</i>.</div>
+
+</body>
+</html>

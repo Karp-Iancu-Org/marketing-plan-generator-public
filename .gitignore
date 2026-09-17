@@ -1,0 +1,11 @@
+niches/
+marketing-plan/
+inputs/
+.env
+.env.*
+!.env.example
+.claude/settings.local.json
+.codex/
+.agents/
+.DS_Store
+Thumbs.db
