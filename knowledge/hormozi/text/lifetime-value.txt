@@ -1,0 +1,1211 @@
+# Extracted text: lifetime-value
+
+PDF pages declared: 32. Page markers preserve every PDF page; empty pages are marked explicitly.
+
+===== PDF PAGE 1 =====
+  A     ACQUISITION .COM
+
+
+
+
+$1 OOMPlaybook:
+  Lifetime Value
+ Eight i\Jaysto Get Customers
+      to Buy More Stuff
+
+
+
+
+  ALEX HORMOZI
+
+===== PDF PAGE 2 =====
+Disclaimer
+
+The information provided in this book is for educational and informational purposes only. The author,
+publisher, and licensed distributor have made reasonable efforts to ensure that the information within
+was accurate at the time of publication. The author, publisher, and licensed distributor make no
+representation or warranties with respect to the merchantability, fitness for a particular purpose,
+current or continued accuracy or completeness, and reliability of the contents of this book.
+
+The strategies, tips, and tools discussed in this book are the author's personal opinions and are provided
+as-is. They are intended to provide helpful and informative material on the subjects addressed in this
+book. Successin any marketing and business endeavors is based on a wide range of factors unique to
+each individual or business.
+
+Laws are subject to change and may vary by location and jurisdiction. You, as the reader, are
+encouraged to consult with a professional where appropriate and review the current local laws before
+implementing any marketing strategies or campaigns.
+
+Earnings and income representations made by the author are aspirational statements only of your
+potential earnings. The success of the author and others referenced herein, testimonials, and other
+examples used are exceptional, non-typical results and are not intended to be and are not a guarantee
+that you or others will achieve the same results. Individual results will always vary and your results
+will depend entirely on your individual capacity, work ethic, business, skills and experience, level of
+motivation, diligence in applying the strategies discussed, the economy, the normal and unforeseen
+risks of doing business,and other factors within or beyond your control.
+
+No guarantee is made that you will achieve any result at all from the ideas in this book. The author,
+publisher, and licensed distributor disclaim any representations or warranties (express or implied),
+including, without limitation, those of merchantability, fitness for any particular purpose, current or
+continued accuracy or completeness, and reliability. Reliance on the information provided is solely at
+your own risk. As further described herein, the author, publisher, and licensed distributor shall in no
+event be held liable to you or any party for any direct, indirect, punitive, special, incidental, speculative,
+or other consequential damages arising directly or indirectly from any use and/or misuse of this book,
+which is provided "as is", and without warranties.
+
+As always, the advice of a competent legal, tax, accounting, finance, or other professional should be
+sought and obtained.
+
+Any statements that express or involve discussions with respect to predictions, goals, expectations,
+beliefs, plans, projections, objectives, assumptions or future events or performance are not statements
+of historical fact and may be "forward looking statements." Forward looking statements are based on
+expectations, estimates, and projections at the time the statements are made that involve a number
+of risks and uncertainties which could cause actual results or events to differ materially from those
+presently anticipated.
+
+Running a business involves the risk of loss as well as the possibility of profit. All businesses involve
+risk, and all business decisions remain the responsibility of the individual. The author, Bumble IP, LLC,
+Acquisition.com, LLC, and their affiliates (collectively referred to herein as the "Company") have not
+made any guarantees that the strategies outlined in this book will be profitable or beneficial for you
+or your business, and the Company is not liable for any potential business losses related to these
+strategies.
+
+===== PDF PAGE 3 =====
+The Company's representatives are professionals, and their results are not typical of the average
+individual. Background, education, effort, and dedication of individuals and businessowners will affect
+their overall experience. Any examples shared in this book are merely illustrative and not guarantees
+of a return on businessesor other result. Each reader's results may vary. The Company does not
+warrant the performance, effectiveness,or applicability of any sites listed or linked in this book. All links
+are for informational purposes only and are not warranted for content, accuracy,or any other implied
+or explicit purpose. All the information provided in this book pertaining to running a business and
+businessstrategies is educational only and not specific guarantees of success.Even though reasonable
+precaution has been taken in the preparation of this book, the Company does not assume any liability
+for errors and/or omissions. This book is published without warranty or guarantee of any kind, either
+expressed or implied. The Company is not liable for any damages, regardless of whether arising
+directly or indirectly from the use and/or misuse of this book. Readers agree to release and hold
+harmless the Company and its members, employees, agents, representatives, affiliates, subsidiaries,
+successors,and assignees(collectively "Agents") from and against any and all claims, liabilities, losses,
+causes of actions, costs, lost profits, lost opportunities, indirect, special, incidental, consequential,
+punitive, or any other damages whatsoever and expenses (including, without limitation, court costs
+and attorney's fees) ("Losses") asserted against, resulting from, imposed upon or incurred by any of
+the Agents as a result of, or arising out of the reader's use and/or misuse of this book. This book is
+intended for informational and educational purposes only.
+
+HYPOTHETICAL PERFORMANCE RESULTS HAVE MANY INHERENT LIMITATIONS, SOME
+OF WHICH ARE DESCRIBED BELOW. NO REPRESENTATION IS BEING MADE THAT ANY
+BUSINESSWILL OR IS LIKELYTO ACHIEVE PROFITSOR LOSSESSIMILAR TO THOSE SHOWN
+OR DESCRIBED. IN FACT, THERE ARE FREQUENTLY SHARP DIFFERENCES BETWEEN
+HYPOTHETICAL PERFORMANCE RESULTS AND THE ACTUAL RESULTS SUBSEQUENTLY
+ACHIEVED BY ANY PARTICULAR BUSINESS.ONE OF THE LIMITATIONS OF HYPOTHETICAL
+PERFORMANCE RESULTS IS THAT THEY ARE GENERALLY PREPARED WITH THE BENEFIT
+OF HINDSIGHT. IN ADDITION, HYPOTHETICAL BUSINESSDOES NOT INVOLVE FINANCIAL
+RISK, AND NO HYPOTHETICAL BUSINESS RECORD CAN COMPLETELY ACCOUNT FOR
+THE IMPACT OF FINANCIAL AND OTHER RISK IN ACTUAL BUSINESS.FOR EXAMPLE, THE
+ABILITY TO WITHSTAND LOSSESOR TO ADHERE TO A PARTICULAR BUSINESSSTRATEGY
+IN SPITE OF BUSINESS LOSSESARE MATERIAL POINTS WHICH CAN ALSO ADVERSELY
+AFFECT ACTUAL BUSINESS RESULTS.THERE ARE NUMEROUS OTHER FACTORS RELATED
+TO THE MARKETS IN GENERAL OR TO THE IMPLEMENTATION OF ANY SPECIFICBUSINESS
+PROGRAM, WHICH CANNOT BE FULLY ACCOUNTED FOR IN THE PREPARATION OF
+HYPOTHETICAL PERFORMANCE. When used herein, this "book" means this book, its contents,
+and all information and ideas contained therein.
+
+Copyright© 2025 by Bumble IP,LLC and distributed via license by Acquisition.com, LLC. Reproduction
+or translation of any part of this work beyond that permitted by Section 107 or 108 of the 1976
+United States Copyright Act without the permission of the copyright owner is unlawful. Acquisition.
+com®, its logo, and $1QOM® are all registered trademarks of Bumble IP, LLC and utilized via limited
+license by Acquisition.com, LLC. All rights reserved, including rights for text and data mining and
+training of artificial technologies or similar technologies.
+
+===== PDF PAGE 4 =====
+[No extractable text on this PDF page; consult the canonical PDF image/layout directly.]
+
+===== PDF PAGE 5 =====
+                                  Table of Contents
+
+Increasing Lifetime Value: The Crazy Eight ....                                                 .................................
+                                                                                                                              1
+  What Is LTV? ..                                                                                                                   ...3
+  Why Is It So Important? ...                                                                                                       ...3
+   How To Calculate LTV .                                                                                                           ...4
+
+The Crazy Eight. ..............                                 ······························································.7
+   # 1 Increase Prices ..                                                                                                         ..8
+   #2 Decrease Costs ...                                                                                                      ... 10
+   #3 Increase # of Purchases ....                                                                                              . 12
+   #4 Cross-Sell Something Different ...                                                                                           .14
+   #5 Sell More (Increase Quantity) ..                                                                                          .. 15
+   #6 Sell Better (Increase Quality)                                                                                           ... 16
+   #7 Downsell Fewer (Lower Quantity) ...                                                                                        .18
+   #8 Downsell Lower Quality .                                                                                                     .. 20
+   Putting It All Together                                                                                                         ..23
+
+Make Customers Worth More: The Crazy Eight ...............................................................
+                                                                                                     25
+
+
+
+
+                            Copyright© 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION                                                     V
+
+===== PDF PAGE 6 =====
+[No extractable text on this PDF page; consult the canonical PDF image/layout directly.]
+
+===== PDF PAGE 7 =====
+            Increasing Lifetime Value: The Crazy Eight
+
+                      How ToGet Customers ToSpend More Money
+
+
+
+May 2020.
+   We negotiated the deal for months. The company did decent numbers in 2019 and
+was exploding in 2020. But, it was volatile. Revenue was way down millions from only a
+few months prior, while still being up from the year before.
+    Their front-end product got customers like crazy. But. .. it was the only thing they
+had to sell. That meant their customers were "one and done" ... So there was no recurring
+revenue. Plus, they only had one major marketing channel. So if an account got jammed
+up, or a campaign flopped, we took a serious hit.
+    We both agreed we needed to add a back-end product. A back-end product would do
+two things. It would stabilize and grow the revenue. First, it would stabilize the revenue
+because even if they had fewer customers coming in, their current customers could still
+spend. Second, it would grow their revenue because when they did have a healthy flow of
+customers, their current customers could still spend. So best case they made more, and
+worst case they stayed the same. A decent upgrade. And if priced right, it would only
+need one out of five customers to buy it to double the revenue. Not bad. And we would
+use the extra cash and scale our advertising even further.
+    But ... we still had to get there. The company went up like a rocket, to be sure. But it
+didn't have any steering! And by that, I mean, we agreed the company needed something
+else to sell... and that's it. Everything else had so much friction we couldn't make any
+headway at all. Sitting ducks.
+    The founders wanted to sell something they had a passion for. Which, although
+respectable, had nothing to do with their current business. It would be a marketing,
+branding, and sales nightmare. It was so far off they may as well have started a whole
+other business. I firmly opposed it because it didn't solve our customers' next problem.
+If customers like your stuff, they want to buy more stuff like it! Mainly because, the people
+buying the first product weren't buying because they wanted to start a marketing and sales
+business. It felt "too far" from the core product.
+    We couldn't agree. It looked like the disagreement would get in the way of us doing
+the deal. In a last ditch effort I said, "Why don't we just ask the customers? Offer both
+
+
+
+                       Copyright© 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION              1
+
+===== PDF PAGE 8 =====
+                                $I00M PLAYBOOK: LIFETIME VALUE
+
+
+and see which one they choose. If they take your offer, I'll happily bow out. If they take
+my offer, we do the deal." It was a huge gamble. It was intense.
+
+   So, they sent the survey. And, we waited. We both wanted our offer to win. A few
+days later, we met back up again.
+    "So?? How'd it go?" I asked.
+
+    The founders looked at each other and laughed. They shared their screen.
+
+
+
+
+    The black represented the percentage of people who wanted my offer. The white
+represented the people who wanted their offer. It wasn't even close. The vast majority of
+people wanted my offer.
+
+    "Yea, they definitely wanted a product closer to what they already know and like."
+They paused and reflected for a second. "This was a good exercise in remembering that
+the business serves the customer, not the other way around."
+
+    "I've made this mistake before. I totally get it. I lost millions of dollars and months
+of my life trying to force a product my customers just didn't want. I'm just happy I could
+make the mistake for you."
+
+     We ended up doing the deal and implementing my offer as the upsell. The new
+upsell 2.2x LTV per customer. And by doing so, allowed us to 5x our advertising across
+all channels profitably. It increased the revenue from a few million per month to a few
+million per week. So you could say... it worked.
+
+                                               ***
+
+2                     Copyright© 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 9 =====
+                         INCREASING LIFETIME VALUE: THE CRAZY EIGHT
+
+
+    If you're wondering what was the offer that won?- My favorite upsell of all time:
+     More of- or more help with - what they iust bought ... but with faster results, less risk,
+less effort, less hassle-for more money.
+    And that's one of eight different ways that we'll explore to make customers spend
+more. In fancy business terms, increaseLTV.
+
+
+
+What ls LTV?
+    Lifetime value (LTV) is the grossprofit collectedover the lifespan of a customer. In other
+words, how much total money you make from a customer minus everything it costs you
+to deliver it. I sometimes call it lifetime gross profit (LTGP). Some places refer to it as
+customer lifetime value (CLV). Just know, it's the same idea. So don't stress about it.
+
+
+
+Why Is It So Important?
+    If advertising is the machine that makes a business grow, LTV is the fuel. The business
+owner who can make a customer more valuable to his business than to his competition
+wins. Since he can outspend them to acquire the customer, he can outbid the competitor
+in every advertising channel that uses an auction for attention. At the time of this writing,
+that's most of them.
+       Eyeballs and earballs will only get more expensive over time. The cost per impression
+has only gone up in the last hundred years, and will likely continue to. As new platforms
+emerge, that attention becomes cheaper. But as the platform grows, so does the cost of
+that attention. The market catches up quickly. So, what can you do? You win by getting
+customers to spend more money than it takes to get their attention. And this works on
+even the most mature and overpriced platform. You simply make your customers worth
+more to you than your competition. If you can do that, then you have a veritable monopoly
+of attention. No one else can outbid you, and you get all the customers to yoursel£ A
+strong proposition.
+        I prefer to buy businesses that can get customers but struggle to maximize how
+much they spend. This way, I can fix it back to front. I want to mal{e LTV as high as
+possible so I can spend even more money on an already working advertising machine.
+There are a number of ways you can do this with any business. But before we can do that,
+you need to establish a baseline:
+
+
+                        Copyright© 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION               3
+
+===== PDF PAGE 10 =====
+                               $100M PLAYBOOK: LIFETIME VALUE
+
+
+
+    Pro Tip: Rich People Know How To Count Their Money
+    If you wanna be filthy rich, you're gonna wanna be able to count your money
+    right? So money math is a skill you're gonna want. And on a personal level-I
+    hated math most of my life. Then, I found out about money math. I quickly
+    realized I loved money math because the more I did, the more money I made...
+    Yay money math.
+
+
+
+
+How To CalculateLTV
+
+    Thefollowing are excerptsfrom the Lost Chaptersgiven awayfrom my book launch.
+    Step One: Gross Profit. The first thing you have to figure out is your gross profit.
+Gross Profit is what's leftoverfrom a purchaseafter you deliver the goodsor service.Note:
+this isn't net profit (which is what's left over after you paid all expenses). You use gross
+profit to pay the rest of your bills (and hopefully have some - net profit - for yourself at
+the end of the month).
+
+    Product Example: I sell a widget for $100. It costs me $20 to manufacture and ship
+the widget to the end customer. My gross profit is $100 - $20 = $80.
+
+    Service Example #1: I deliver services monthly. I have one account representative per
+10 clients. My clients each pay $3,000 per month. My account reps each cost $6,000 per
+month. Let's figure out the gross profit:
+
+    Clients Per Rep= 10
+    Revenue Per Client - $3,000
+
+    Cost Per Rep = $6,000
+
+   So, I make 10 clients/rep x $3,000/mo = $30,000/mo per representative. Assuming I
+have no other costs for delivering my service, my gross profit is
+    $30,000 Revenue - $6,000 Cost = $24,000.
+    $24,000/$30,000 = 80% gross profit.
+
+    So my gross profit on a single customer is
+    $3,000 x 80% = $2,400. Cool right?
+
+
+4                     Copyright© 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 11 =====
+                        INCREASING LIFETIME VALUE: THE CRAZY EIGHT
+
+
+    LTGP Step One Action➔ Figure out your gross profit and gross profit percentage
+for each thing you sell and your business overall. Hint: you may be surprised that some
+products you spend a lot of time on don't make you as much profit as you thought.
+
+
+     Step Two: Figure the average number of transactions a customer makes over their
+lifetime. If your CRM tells you this-awesome. But I'm gonna give you a few "back of
+napkin" methods that you can use if you don't have one (or want to double check it ...
+which I highlyrecommend).
+    Disclaimer: Figuring out average customer transactions is always an estimate because
+customers come, leave, and come back all the time. As such, lifetime transactions always
+increase as a business gets older because old customers buy more. So these are the ways I
+estimate it.
+    1) Export your lifetime customer data. Sort by number of transactions. Average out
+       that column. Ta-da.
+
+            a) Ex: Avg# of transactions = 4
+    2) If you have a recurring revenue business, you figure it out differently. This forces
+       us to introduce a new concept-churn. Churn is the percentage of customers that
+       leave between time periods. So, if on the first of last month we had 100 customers
+       and this month, of those 100 customers, we lost five, our churn is 5%.
+
+            a) Last Period = 100
+
+            b) This period= 95
+            c) Difference= 100-95= 5
+            d) Churn= people who left divided by original amount= 5 / 100 = 5%
+       Note: People get this twisted. Don't be one. If you sign up new clients during this
+time period, it does not affect churn. The same number of original people left. You could
+sign up zero or 1,000 new clients during the same month. You still lost five of the original
+100 and your churn is still 5%.
+    Step Two Action: Figure out# of transactions or churn. Now that we have this figured
+out, all we have to do is put steps one and two together to get our lifetime gross profit.
+
+
+
+
+                       Copyright© 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION             5
+
+===== PDF PAGE 12 =====
+                               $100M PLAYBOOK: LIFETIME VALUE
+
+
+    Step Three: If you have a product or transactional business, multiply the average
+gross profit by # of transactions. Or, if you have a recurring business, divide gross profit
+by churn percentage.
+
+
+
+    Physical Products LTGP Example:
+
+    Gross profit x average transactions per customer= LTGP
+    $80 x 4 = $360 LTGP
+    That's it!
+
+
+
+    Services LTGP Examgle:
+    Gross profit/ churn = LTGP
+
+    $2,400 I 5% = $48,000
+    Bingo. See. Math-no     fun. Money math-so           fun.
+
+
+
+    Remember, he who can make his customer more valuable than his competition, wins.
+After all, the cost of getting a customer can only hit zero ... but how much money you
+make from each customer can go infinitely high.
+   Now that you have a baseline LTGP number, let's talk about how to increase it. Enter:
+The crazy eight.
+
+
+
+
+6                     Copydght © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 13 =====
+                                 Tue Crazy Eight
+
+                      1he Eight "WaysToMake CustomersWorthMore
+
+
+           INC.f!EASE         INC.f!EASE SELL MOl?E SELL BIETT&lt
+            P~ICIS         # Pi.utt"°'ASES( 'I'Q.UA,.T11"V) ( 'I'Q.\AAL11'V)
+                                                        ~          6\t,f.,(«-             ,,,,
+         --~$ ©©©E➔~~-
+                 =
+
+         DEC.tEAS£
+                     = ii-.
+                            CltO'!tS-S£L\.
+                                                         -
+                                                         ~
+
+
+
+                                                     SELL FEWEIZ SELLWOEU'
+                                                                                =
+                                                                                           ii=
+
+                             OlfFh:EHT
+          C.oSTS
+                                         \]
+                                                  (t,Q.\AA,.T11'V)
+                                                                                ,,,,
+                                                                                ( .. Q.\AAL11'V)
+
+
+
+            !$ !ie-.
+                                                 -             '!,...........
+
+                             =          -~
+                                          +
+                                                  ~
+
+
+                                                  -
+                                                  -=
+                                                     +➔•'"'
+                                                        =-
+                                                            +
+                                                                     -
+                                                                     ~
+
+                                                                      ,,.,,,
+                                                                                 ._..
+                                                                                 =    =
+
+
+     I remember the first time I heard "there are only two ways to make a customer more
+valuable ... you can increase average order value, or increase the number of times they
+buy." And although those are both true, it felt "too broad" to make actionable. So, I broke
+it into smaller chunks so I could apply them to any business. I actually drill my team
+on this stuff so they can apply the framework to any product or service to make more
+money with it. It's probably some weird neurotic tic, but I do it in almost every business
+I encounter. Once you start running through them in your head, you will be "fluent"
+in monetization.
+      The crazy eight are as follows:
+
+        1) Raise prices
+
+        2) Lower the cost of delivering the thing
+        3) Upsell Frequency: Get them to buy more again later
+
+        4) Cross-Sell: Get them to buy a different thing on top
+
+        5) Upsell Quantity: Get them to buy more now
+        6) Upsell Quality: Get them to buy a premium version
+        7) Downsell Quantity: Get them to buy fewer things ratherthan nothing
+
+        8) Downsell Quality: Get them to buy lower-cost things ratherthan nothing
+
+                      Copydght © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION                       7
+
+===== PDF PAGE 14 =====
+                                $100M PLAYBOOK: LIFETIME VALUE
+
+
+        9)
+
+    To make these real, wherever reasonable, I am going to run through three different
+examples of each: a local service business, a physical products business, and a digital
+products business. Let's start with the first one on the top left of the image: increaseprices.
+
+
+
+                                        INt£EASE
+                                         PrtlCE~
+
+
+
+                                      ' -$
+#1 Increase Prices
+
+    You chargemore moneyfor the same thing. Pricing affects gross profit more than any of
+the eight. For that reason, we start with it. I run pricing tests more than any other thing
+in business. If you take a 10% profit business, raise the prices by 20%, and keep sales the
+same ... you don't grow the business by 20% ... you triple it.
+
+
+
+                                  ~(.,~:,    ,I
+                                                    $1?0 .,,  .   I
+
+                                                     ¢to          !   lt?,C):   -s~~COFITI
+                 o·1. ¢,o
+    NET/JIAe,,,.,,:
+                                                    -----·        I
+                                                                  I
+                                                     ¢,o : NETI'll I\ 261N: Z.'i "/.
+                                                              ·"           $~/$1'2'.0
+
+
+               ~01. $1\0
+      E'X9ENSES.:                                    $1\0             E~9i~!i.ESl   ~,;1.
+                                                                          ~t.\0/ ~ l'ZO
+
+                        StF61i!:E                  /t.FT'&ft
+
+
+
+
+8                      Copyright© 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 15 =====
+                                        THE CRAZY EIGHT
+
+
+
+    All that extra cheddar drops straight to the bottom line. Can you think of anything
+else that has that kind of power? Right. It's important to test. And, from experience, it's
+usually higher than you think. To find the sweet spot on pricing, do this:
+        a) Salesconversionratex lifetimegrossprofit. The price that gets the most people to
+           buy with the highest gross profit is the price that maximizes profit. Remember,
+           the goal isn't to sell the most stuff, it's to make the most money. Which, in
+           turn, allows you to stay in business and help more people longer.
+        b) We test prices every quarter. A research study done by ProfitWell suggested a
+           tight relationship between the profitability of a company and how frequently
+           they tested pricing. In fact, I bought one company, and after reviewing
+           everything, simply doubled the price. That's it. And by doing so, tripled
+           the business. We did nothing else. Making more money doesn't have to be
+           complicated.
+    Action Step: Set a new price. Let your sales team know (or update it on your site).
+Calculate what the difference in gross profit per unit will be. Figure out what conversion
+rate would be your "breakeven" point from your old price to the new higher price. Track
+the conversion rate with the new price. If it's above your breakeven point, you have a
+winner. Then, test again until the conversion rate x LTGP drops.
+
+
+
+
+    Pro Tip: Start Low Then Go Up.
+    You need to make sales to make sure people actually want your thing. It also
+    helps you run some water through the pipes to see where the leaks are.
+    Once things are humming, you nudge up the price. I recommend nudging the
+    price by 20% every 10 sales or so until you notice a dramatic drop in sales.
+    Then, go back to the sweet spot.
+
+    And if you sell someone a little higher price before you figure out it was too
+    high, just add in some extra bonuses for them. If they're butt hurt, you can
+    always refund them the difference. I've done both. Testing price is expensive
+    for a few months. But the only thing more expensive is not testing price at all
+    and having a business that's under-monetized for life.
+
+
+
+
+                       Copy'1ght © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION            9
+
+===== PDF PAGE 16 =====
+                                  $100M PLAYBOOK: LIFETIME VALUE
+
+
+
+
+                                        DfC..IZEASE
+                                         C.oS1'"S
+
+                                            l
+#2 Decrease Costs
+
+    You decrease your costs to deliver the same thing. This increases gross profit. Contrary
+to pricing where you can go infinitely high, with costs, you can only go down to zero.
+But, the thought process can make your business more profitable and more scalable.
+        a) To decrease the costs of your services you can:
+
+                   i)   Increase the ratio of employees to customers. So instead of an
+                        account rep handling five clients, you give them 10. This cuts your
+                        costs in half.
+
+                  ii)   Offshore talent. You can look for people with the same skill set in
+                        countries that have lower costs of living. As a result, you can cut
+                        your costs sometimes by 80% or more. This is free and anyone can
+                        do it.
+
+                 iii)   Sell more similar customers to productize your delivery. You sell
+                        more similar customers with more similar problems so that you
+                        can use the same delivery methods for each of them rather than
+                        personalizing your solutions. Think templates and automation.
+                        This makes delivery faster, more consistent, and more profitable.
+
+                 iv)    Done for you to Done with you. This functionally changes the
+                        ratio of client delivery but is different enough that it felt worth
+                        calling out. If you switch what you sell from "I'll do it for you"
+                        to "I'll help you do it" you can dramatically increase your ratio of
+                        customers to your employees. If this only incurs a minor decrease
+                        in price, it can be a very profitable switch.
+
+                 v)     Cap usage. If you have a video editing agency for example, you can
+                        cap how many revisions someone gets so they don't endlessly drain
+                        resources. Then, you can charge per use thereafter.
+
+
+10                      Copycight © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 17 =====
+                                       THE CRAZY EIGHT
+
+
+                vi)    Lifetime to annual. Instead of giving lifetime access for stuff, you
+                       can make it annual. By doing so you won't have to service customers
+                       indefinitely off a one-time transaction.
+
+               vii)    In-person to remote. Going remote incurs fewer costs for you and
+                       the customer for travel and for sourcing talent.
+
+               viii)   Cut meeting times. One of the biggest sources of waste in a business
+                       is pointless meetings. They distract your employees. And if you do
+                       them with customers, it wastes their time too. Every quarter, delete
+                       all the recurring meetings you have in your business. Then,seewhat
+                       you need to add back in. And when you do, see if you can do it in
+                       half the time or less. This keeps things as tight as possible for you,
+                       your customers, and your employees.
+
+                ix)    Buy in bulk and prepay. If you have the cash you can lock in
+                       10-20% discounts with all your vendors by prepaying. This is
+                       like a guaranteed return on investment and well worth doing. If
+                       you knew you would get a 20% return on your money, you would
+                       invest, right? The same logic applies to locking in discounts. Buying
+                       in bulk for physical products works the same way.
+
+
+
+   Action Step: Write down or circle the top two you think you could implement within
+your business to decrease your delivery costs.
+
+
+
+
+                       Copyright© 2025 by BUMBLE mLLC NOT FOR DISTRIBUTION                11
+
+===== PDF PAGE 18 =====
+                                 $100M PLAYBOOK: LIFETIME VALUE
+
+
+
+                                      INlf!.EASE
+                                    # Pucc.MA!.E!,
+
+                                     ©©©
+#3 Increase # of Purchases
+
+     You get people to buy the same thing more times (rather than buying more at once,
+which I'll cover later). There are only three ways I know to actually increase the number
+of purchases (without doing other crazy eight stuff at the same time). You can add
+recurring, decrease churn, and make regular follow up offers. You're going to want to pick
+at least one.
+
+        a) Add recurring. You add a version of your offer that recurs on a weekly,
+           monthly, quarterly, or annual basis. As a friendly reminder, do this even if
+           you have incredibly high churn. If someone goes from buying once to buying
+           three times because you implemented some sort of recurring subscription or
+           membership, you just tripled how many times they buy.
+
+                  i)    Service example: You sell plumbing services. You upsell a plumbing
+                        membership for all their plumbing needs. 20% of customers buy it.
+
+                  ii)   Physical Products: You sell mugs. You create a funny
+                        mug-of-the-month membership. 10% of customers take it and stay
+                        for five months.
+
+                 iii)   Digital Products: You sell a course. You add accountability calls as
+                        an ongoing service and people pay monthly for access.
+       6) Decrease churn. If you already have recurring revenue, the objective is to
+          decrease churn - aka - get them to stay and pay longer. When you decrease
+          churn, you increase the average number of purchases someone makes. If
+          churn goes from 10% per month to 5% per month, you double LTV (Price/
+          Churn= Lifetime revenue). The Retention Playbook covers the steps to make
+          this happen in insane depth so I won't go over it here.
+
+                  i)    Service example: You sell lawn care. You hold a local customer
+
+
+12                      Copydght © 2025 by BUMBLE JP, LLC NOT FOR DJSTRIBUTJON
+
+===== PDF PAGE 19 =====
+                                       THE CRAZY EIGHT
+
+
+                       appreciation event via handwritten letter, and people cancel less
+                       often because they like you more.
+                ii)    Physical Products: You sell a meat membership. You allow customers
+                       to change their quantity and delivery frequency via text, and this
+                       keeps them longer.
+                iii)   Digital Products: You sell a course. You add a community feature
+                       that keeps people engaged longer.
+       c) Follow up. You can go into any business and run a reactivation campaign
+          to get leads from their list or audience to re-engage. My preferred method
+          of long-term follow up is to run a quarterlypromotion. The remainder of the
+          time, I simply provide value to my list of former customers and potential
+          leads. This balances the give:ask ratio and keeps my business top of mind.
+          Sometimes it's not the right time for someone to buy. But if we remind our
+          customers we exist more, in general, we make more money when they' re ready
+          to make a move.
+                  i)   Service example: You sell lawn care. You run a quarterly "best lawn"
+                       competition to reactivate old customers.
+                 ii)   Physical Products: You sell supplements. You run a quarterly weight
+                       loss challenge.
+                iii)   Digital Products: You sell a course. You run a quarterly promotion
+                       for a cohort of students who get more attention from you. Or,
+                       add one new module and promote it to "launch" this new and
+                       improved version.
+    Action Step: Write down or circle one of the three above that you think you should
+prioritize implementing over the next quarter.
+
+
+
+
+                       Copyright© 2025 by BUM~LE IP, LLC NOT FOR DISTRIBUTION           13
+
+===== PDF PAGE 20 =====
+                              $!DOM PLAYBOOK: LIFETIME VALUE
+
+
+
+                                    CR()~S-~EL\.
+                                     0 efFE'tt&HT
+                                                      \]
+                                     ~ .... +
+                                     c::::::::,      -
+                                                      c::::::::,
+
+
+
+#4 Cross-Sell Something Different
+
+    You sell another product that complements-or goes with-your first product. I talk
+about the various types of things you can sell in the Profitable Products Playbook (which
+is hopefully out by the time you read this). To see how much it adds to your LTV, you
+simply add the conversion rate x gross profit of the upsell to your original LTV.
+
+        Ex: So if your LTV was $100 to start and you get 20% of people to buy a $100
+        upsell that's all profit, you add 20% x $100 = $20 to your original LTV. In this
+        case, $100 old LTV+ $20 added LTV= $120 new LTV.
+
+           a) Service example: You sell lawn care. You cross-sell snow blowing in the
+              winter.
+
+           b) Physical Products: You sell burgers then you cross-sell fries and a soda.
+
+           c) Digital Products: You sell a course then you cross-sell a community on
+              top.
+
+     Action Step: Write down a version of a cross-sell for your business that you think
+people would take that does not dramatically change who you serve or what you do every
+day. Note: you don't wanna break your business to pick up some extra change. You want
+it to be the easiestthing you could add in seamlessly with your existing infrastructure,
+resources, and expertise.
+
+
+
+
+14                   Copydght © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 21 =====
+                                         THE CRAZY EIGHT
+
+
+
+                                     SELL MORE
+                                   ( ~ Q.UAMT11"V)
+                                              -            g,e,i,t1t
+
+
+                                    ~➔~!!:--!
+                                              -            c:::::::,
+
+
+
+
+#5 Sell More (Increase Quantity)
+
+    You sell more of the same thing at once. This happens in three main ways. And I
+like to be nuanced because one or more of them will apply to your business. First, you
+can sell more of the same thing, think "bulk" purchasing. Second, you can sell increased
+frequency of delivery, think "more often". Third, you can sell more in the same package,
+think "bigger".
+        1) Example: You sell pest control care lx per month.
+                  i)     Bulk:You get the client to prepay for a year ( l 2x)
+                        (1) Or upsell someone to go from buying one burger to two.
+                  ii)    More often:You upsell how often you service from monthly to every
+                         three weeks (l.33x)
+
+                        (1) NIA for physical products on this.
+                 iii)    Bigger:You go from working 1 hour each time to 3 hours each time
+                         (3x)
+                        (1) Or upsell someone from buying a normal burger to a bigger
+                            burger.
+    Action Step: Write down a version of each quantity upsell for your product or services
+and begin offering it first on your sales calls. Then, downsell your standard offer. You may
+see 20%+ lifts in cash collected overnight.
+
+
+
+
+                         Copyright© 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION          15
+
+===== PDF PAGE 22 =====
+                                 $J00M PLAYBOOK: LIFETIME VALUE
+
+
+
+                                     SELL 8£TTett
+                                    C1' Q.'-'•Lrrv)
+                                                       ,,,,
+                                     ......
+                                      c:::::,            c:::::,
+
+
+
+
+#6 Sell Better (Increase Quality)
+
+     You sell a better version of the same thing. The better version comes at a higher price.
+I think about it in two ways. First, a newer version of the same thing. Second, a premium
+version of the same thing (think better ingredients, better materials, or better people).
+        Examgle: You sell services.
+
+        a) Premium version might be they get:
+
+                   i)   Faster response times.
+
+                  ii)   Time availability: Come/call specific times vs. whenever you want.
+                 iii)   Days of the week: Mon/Wed/Fri vs. all days.
+
+                 iv)    Times of day: 9 to 5 vs. 24hrs.
+
+                  v)    Amount of time: 15min support calls vs. 60min support calls.
+
+                 vi)    Location availability: This one location vs. all locations we own.
+
+                vii)    Cancellations: Reschedule fees vs. free.
+
+                viii)   Speed of response: Reply in minutes vs. hours vs days etc.
+
+                 ix)    Speed of delivery: Wait in line vs. priority, same day/next day vs.
+                        next week.
+
+                  x)    Service ratio: One-on-one vs. one-to-many vs. many-to-one.
+
+                 xi)    Communication           method: Text vs. chat support vs. video call
+                        support etc.
+
+                xii)    Provider qualifications: You vs. long-time employee vs. new
+                        employee, etc.
+
+
+16                      Copyright© 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 23 =====
+                                          THE CRAZY EIGHT
+
+
+                xiii)    Live vs. recorded: Watch it happening now vs. watch it after it
+                         happens later.
+                 xiv)    In-person vs. remote: Watch where it happens vs. watch it
+                         somewhere else.
+                 xv)     DIY, DWY, DFY: Do It Yourself vs. Done With You vs. Done For
+                         You.
+                 xvi)    Expirations: Works forever vs. works for X time vs. works at specific
+                         times.
+                xvii)    Personalization: Generic vs. 3-5 avatars vs. made just for you.
+
+            b) Premium version of physical products might be:
+
+                   i)    Better ingredients
+                        (1) Think sirloin vs. ground chuck.
+                  ii)    Better, stronger, lighter, longer lasting materials
+
+                        ( 1) Think steel vs iron.
+
+            c) "Newer" for a service might be access to a new process.
+            d) "Newer" for a physical product might be a new recipe or a more updated
+               model.
+
+
+    Action Step: Write down a version of a quality upsell for your product or services.
+Begin offering it either first on your sales calls, then downsell your standard offer. Or, sell
+your standard offer, and meet with the cusromer again to upgrade them into a higher
+quality experience. We routinely see 20%+ lifts in cash collected upfront and LTV overall
+by doing this.
+
+
+
+
+                         Copydght © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION             17
+
+===== PDF PAGE 24 =====
+                                $ I 00M PLAYBOOK: LIFETIME VALUE
+
+
+
+                                    SELL FEWEil
+                                   (l~\AAPITe1"'Y)
+                                   c:::::,                ...\,\.f.11,
+                                   !!!l!E             .,,_..-
+                                   +➔ 561. =+
+                                   -~ =-   ~
+
+
+#7 Downsell Fewer (Lower Quantity)
+
+    You sell a smaller amount of the same thing. This works the same way as the quantity
+upsell but in reverse. You can sell fewer of the same thing, you can sell a smaller version,
+or less frequent "doses". Now you might be thinking-wait,            how does this increase my
+LTV? Well, if it means this or nothing, then this beats nothing! But, when we pick the
+right price for anything, we factor in the conversion rate. It'll be easier to explain afrer you
+see the visual below. Imagine four people walk in the door, get on the phone with your
+sales team, or visit your website checkout page. Here are two scenarios that show what
+you might make per visitor before and after implementing a downsell.
+
+
+         ~lt:"t'>tE Oo"'-'l'J~E"lL                            AFT'~ Oo""'l'J<s.ElL
+
+                                 $0
+
+
+
+                                $0
+
+
+
+        I$Z.$o         /PftSoMI~                            I$?>.l-5"/          PftSoMI
+                                             +SoZ
+
+
+18                     Copydght © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 25 =====
+                                           THE CRAZY EIGHT
+
+
+    So, if we make 50% more per person who walks in the door, we make more money,
+even though we're making the additional sales at a lower price. Now, to be clear, you lose
+money on downsells when people who would've bought the $5 thing now opt for the
+$2.50 thing. Downsell people who otherwise don't qualify for your other offers. In other
+words, I forbid my salesteamfrom sellinga qualifiedpersona downse!!.This gets me the best
+of both worlds. I don't have to worry about cannibalizing my main offer, and I can scoop
+up the extra cash from the downsells.
+
+        a) Example: You own a home service business that services lx/mo.
+
+                  i)     Quantity: You get the client to buy three months upfront instead
+                         of 12.
+
+                        (1) Or downsell someone to go from buying two burgers to one.
+                 ii)     Less ofren: You downsell the client to buy one visit every other
+                         month rather than nothing at all.
+
+                 iii)    Smaller: You go from working 1 hour each time to 30min each
+                         time. (.5x)
+
+                        (1) Or downsell someone from buying a normal burger to a smaller
+                            burger.
+
+    Action Step: Write down a version of a quantity downsell for your product or services
+and begin offering it only to customerswho do not qualifyfor your main offer.These tend to
+incur little operational drag since you already do or make the stuff.
+
+
+
+
+                         Copyright© 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION         19
+
+===== PDF PAGE 26 =====
+                                 $!DOM PLAYBOOK, LIFETIME VALUE
+
+
+
+                                    SELL wor.Ci.E
+                                   ( f. Q.lAAL11"'Y)
+                                    ,,,,
+                                      - ·-
+                                      c::::::::,         c::::::::,
+
+
+
+
+#8 Downsell Lower Quality
+
+    You downsell something that gets the same result for the customer as your main offer
+but with a lower quality experience. It might take longer, have higher risk, or they incur
+more hassles by downgrading. All we do is take the list for a quality upsell and reverse it.
+You take what you currently sell, and offer a less valuable version of it.
+
+        a) Example: You sell B2B services.
+
+                   i)   Slower response times-they           wait in line
+
+                  ii)   Less availability for meetings
+
+                 iii)   Fewer locations for them to access
+
+                 iv)    Fewer days per week to service them
+
+                  v)    More limited hours to service them
+
+                 vi)    Less flexibility for rescheduling
+
+                 vii)   More junior employees helping them
+
+                viii)   Higher customer to employee ratio
+
+                 ix)    Less convenient communication methods
+
+                  x)    More recorded, less live
+
+                 xi)    More remote, less in-person
+
+                 xii)   Done for you to Done with you, or Done with you to Do it yourself
+
+                xiii)   Less personalization
+
+                xiv)    No guarantee or worse guarantee
+
+
+20                      Copyright© 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 27 =====
+                                         THE CRAZY EIGHT
+
+
+       b) Example: Physical products
+
+                   i)   Lower quality ingredients or materials in construction
+
+                  ii)   Worse or zero warranty/guarantee
+
+                 iii)   Longer wait times
+
+
+
+    Action Step: Write down a version of a quality downsell for your product or services
+and begin offering it only to customerswho do not qualifyfor your main offer.These tend to
+incur little operational drag since you already do or make the stuff.
+
+
+
+
+                        Copyright© 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION         21
+
+===== PDF PAGE 28 =====
+                                $100M PLAYBOOK, LIFETIME VALUE
+
+
+                             Putting It All Together
+
+     If you make more than anyone else does from the same customer, then you can spend
+more than anyone else to get them. Simple as that. The crazy eight are tried and true. I
+could write a book on each of the eight, and maybe I will sometime in the future, but
+I figured I'd start you off with the framework. I use it whenever I need to increase LTV
+- which is - all the time. Having these frameworks or mental models in my back pocket
+allows me to quickly think of ways to solve for value in a way that's easy, low-friction,
+and has good margins. And the more you use these frameworks the better you'll get with
+them.
+
+     I strongly recommend going through each of the crazy eight and writing down the
+action steps. My highest converting upsells have rarely come from moments of inspiration.
+They usually come from getting into the zone and following a process I know works.
+
+     I share this with you rather than hoard it so you can profit from it. And maybe, we
+can make the world a better place through commerce.
+
+     See you in the next one. Your biggest fan,
+
+
+
+
+     Alex
+
+
+     PS - I attached a sheet at the end here that you can tear off for your own reference.
+
+
+
+
+22                     Copydght © 2025 hy BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 29 =====
+                                  THE CRAZY EIGHT
+
+
+
+
+DO YOU WANT TO SCALE YOUR BUSINESS?
+Advertising only becomes more expensive over time. To not only scale your
+business, but protect it, you need to make more per customer over time. LTV
+is the arms race of getting customers. Those who can spend the most, get the
+most. Those who can't, get left behind.
+
+If you want to stop missing out on the boatload of customers
+you can't afford, and max out how much your current                       l!li;.lll!l
+customers pay you:                                                        ~
+                                                                          l'il,.·
+BOOK A 1-ON-1 CALL AT: ACQUISITION.COM/SCALE.
+You can also scan the QR code if you hate typing.                         SCAN ME
+
+
+
+
+                 Copyright© 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION                 23
+
+===== PDF PAGE 30 =====
+24   Copyright© 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 31 =====
+         Make Customers Worth More: The Crazy Eight
+
+
+          INltEASE            INltEASE       SELi. MOl?E SELi. 8£TT&IC
+            P,t 1c,s                                        ( 1' Q.UAL11"Y)
+                            # P1.1~c.l-\A$E$1' Q,1AAl'IT11"Y)
+                                           (
+                                                                                              ,,,,
+                   $ ©©©-➔+~-
+                                                           --            g,c.<,t~
+
+
+
+         t .....              iii__. iii                                               =       =
+                          - =                              '!""""l
+
+
+         DEC.IZEASECte>~S-S£L\. SELi. FEWElt SELi. \i.\OitCi.E
+          CoST'S
+                                                                            -
+                   1'1f'fE'~EHT (•Q,IAAl'IT11"Y) ( t, Q.UAL11"Y)
+                                           \]                                    ~..   ,,,,
+            !$                                      -+➔ tiii=Oa.
+                                                    -             '!,.........
+
+
+                               iii ➔ +                                       """+      iii--.iii
+                               =          -
+                                          =-        -~      =-               ~
+                                                                                       =        =
+
+
+Now Complete The Crazy 8 For Your Business ...
+
+•   Increase price of thing: Set a date for your first price test ___________                            _
+
+•   Decrease cost of thing: Set a date to implement one tactic __________                            _
+
+
+
+•   Get them to buy a different thing: Think of something you could sell immediately after
+    they buy that goes with the initial purchase. Then, offer it after they've made their first
+    purchase.
+
+
+
+•   Get them to buy again: Follow the steps in the Churn Checklist.
+
+
+
+•   Get them to buy more at the same time: Start offering this first, then downsell your
+    current offer.
+
+
+
+•   Get them to buy a better version: Start offering this first, then downsellyour current offer.
+    Note: you can combine this with quantity upsells above.
+
+
+
+                        Copyright© 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION                       25
+
+===== PDF PAGE 32 =====
+                                $I00M PLAYBOOK, LIFETIME VALUE
+
+
+
+•    Get them to buy fewer: Come up with your downsell, begin offering it to unqualified
+     prospects.
+
+
+
+•    Get them to buy worse version: Come up with your downsell, begin offering it to
+     unqualified prospects.
+
+
+
+
+26                     Copydght © 2025 hy BUMBLE II( LLC NOT FOR DISTRIBUTION

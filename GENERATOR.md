@@ -53,6 +53,12 @@ Read the PRD in full. Build the extraction table: for every questionnaire item i
 
 Run the asking protocol at the bottom of `INTAKE-QUESTIONNAIRE.md`: batched `AskUserQuestion` rounds covering only gaps and unconfirmed inferences. Two answers gate everything else and must exist before proceeding: **§1.1 business model** (selects every `<!-- MODEL: -->` variant) and **§4.1 budget tier** (sets volume targets and campaign structure). Write `marketing-plan/intake-record.md` as you go.
 
+### Step 2.5 — Offer and lead diagnostic (before downstream drafting)
+
+Use `knowledge/hormozi/INDEX.md` for targeted retrieval. Confirm the desired result, proof/confidence, time delay, required effort, delivery capacity, components, price, guarantees/eligibility, and claims constraints. Then define the funnel stages that fit the selected model: **contactable lead** (a reachable person), **engaged lead** (a person showing interest), and **qualified lead/customer** (a person meeting confirmed business criteria). A booked consultation is only one possible handoff; app activation and ecommerce purchase flows require their own qualification and nurture definitions.
+
+Record each conclusion in `intake-record.md` as confirmed evidence, a recommendation awaiting approval, or an assumption/gap. Do not invent a financial target, guarantee, scarcity, proof asset, or customer result. If an offer or lead change is proposed, identify its owner, consent-safe follow-up route, sales/product handoff, and the capacity or fulfillment constraint that could make the change infeasible. Keep confirmed follow-on decisions in `decision-log.md`.
+
 ## Step 3 — Avatar research (interview + external research; no customer-data mining)
 
 Goal: 3–5 avatar dossiers + 1 anti-avatar, each field **traceable to evidence** — a verbatim quote from research or an explicit intake answer. Invented pains are forbidden; if evidence is thin, say so in the dossier and mark the avatar "hypothesis — validate with first ad spend."
@@ -77,7 +83,7 @@ For each template:
 1. Resolve every `{{PLACEHOLDER}}` from the intake record / avatar research (the inline `<!-- source: -->` comment says where the value lives).
 2. Keep exactly one `<!-- MODEL: -->` block per variant site (the §1.1 model); delete the other variants **and** the fence comments.
 3. Delete the template's header comment (purpose/inputs/QA) after satisfying its QA checklist — the generated doc must read as a finished document, not a form.
-4. Apply the lessons: `lessons/INDEX.md` is the rulebook; go into the numbered session docs when a section needs depth (e.g., writing hooks → lesson 03; VSL and sales motion → lesson 07; clipping automation → lesson 09). Translate principles into this niche only after research and intake evidence support the application.
+4. Apply the lessons: `lessons/INDEX.md` is the rulebook; go into the numbered session docs when a section needs depth (e.g., writing hooks → lesson 03; VSL and sales motion → lesson 07; clipping automation → lesson 09). Also conduct a **14-title applicability review** through `knowledge/hormozi/INDEX.md`. In the strategy's source/application ledger, record `title → PDF page → relevant user evidence → decision → destination`, or a business-grounded reason for exclusion. Resolve a workshop/book conflict by applicability and evidence; label platform-specific advice as a tactic rather than a universal rule. Translate principles into this niche only after research and intake evidence support the application.
 5. Tune numbers to the niche: CPM/CPL planning bands, awareness-level examples, angle taxonomy, journey checkpoints — generic template values are starting points to be replaced with niche-informed ones, stated as assumptions to validate.
 
 ## Step 5 — QA gate (all must pass before declaring done)
@@ -92,6 +98,9 @@ For each template:
 - [ ] The invariants survived instantiation: creative-ID `A#-H#-M#-C#-v#` = ad name = `utm_content`; ABO-test → CBO-scale; broad audiences; optimize only on the qualified/valuable event; 70/20/10; creatives/week ≈ monthly spend / $1,000.
 - [ ] The organic invariants survived too: saves-first scoring with views/likes/followers absent from all reporting; the mechanical outlier rule (≥3× trailing-30-day median → appended CTA → paid test queue with `ORG-` prefix); cadence set to §9.3's sustainable-for-a-year answer; exactly two human boxes in the production chain (record + compliance QA); the §9.1 scope exclusions stated explicitly in the organic strategy.
 - [ ] The two plans cross-reference correctly: organic docs cite the paid docs they extend (creative spec, capture, measurement), and the paid playbook's test queue accepts `ORG-` creatives.
+- [ ] Offer diagnosis explicitly covers desired result, confidence/proof, time delay, effort, delivery feasibility, components, price and eligibility; unsupported claims, guarantees and financial targets are absent.
+- [ ] Contactable, engaged, and qualified stages are defined consistently across strategy, ads/nurture, and measurement, with model-appropriate acquisition, consent, handoff, response, show/close or activation/purchase feedback.
+- [ ] The strategy ledger covers all 14 supplied Hormozi titles with a source citation and business-evidence decision, or an explicit applicability exclusion; retention/LTV and margin assumptions have an owner and validation date.
 
 ## Step 6 — Executive briefs (optional but recommended — the decision-maker deliverable)
 

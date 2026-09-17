@@ -17,6 +17,20 @@ Section numbers (§1–§8) are the reference used by `<!-- source: intake §N -
 | 1.5 | Target CAC or acceptable cost per customer, if known | unit economics | back out as ≤⅓ of LTV | playbook economics |
 | 1.6 | Is there a cheaper front-end/bridge offer, or could one exist? (the workshop's self-liquidating front-end lesson) | pricing tiers | none yet — flag as strategy option | strategy |
 
+### §1A Offer, lead, and customer-value diagnostic
+
+Record each answer as **confirmed**, **hypothesis**, **recommended default**, or **unknown** in `intake-record.md`; record approved changes in `decision-log.md`. These items supplement §1 without changing its existing references.
+
+| # | Question | PRD extraction hint | Default if unanswered | Feeds |
+|---|---|---|---|---|
+| 1A.1 | What is the customer’s desired result, and what evidence makes that result believable today? | outcomes, proof, reviews | unknown — do not invent proof | offer diagnosis, creative |
+| 1A.2 | What is the real and perceived time delay, customer effort, and delivery constraint? | onboarding, fulfillment, capacity | unknown — validate before promise | offer design, strategy |
+| 1A.3 | Which components, bonuses, access, terms, price, guarantee, and eligibility rules are confirmed? | pricing, terms, legal | no guarantee or scarcity assumed | offer, compliance QA |
+| 1A.4 | Define **contactable**, **engaged**, and **qualified** for this model; what disqualifies a lead/customer? | funnel, CRM, product event | contactable/engaged only until qualification is confirmed | ads, strategy, measurement |
+| 1A.5 | Does the lead magnet solve a narrow problem and naturally lead to the core offer? Which acquisition channels are plausible for this model? | content, funnel, channel evidence | no lead magnet assumed | strategy, ads, organic |
+| 1A.6 | Who owns consent, response, follow-up, scheduling/checkout/onboarding, and the sales or product handoff? | team, CRM, support | owner must be named before scale | nurture, measurement |
+| 1A.7 | What are gross margin/delivery costs, target CAC/payback logic, repeat-purchase path, retention/churn baseline, and capacity ceiling? | finance, cohorts, operations | unknown — state assumption, validation owner/date | strategy, measurement |
+
 ## §2 Avatar hypotheses (seeds research — answers here are hypotheses, verified in the research phase)
 
 | # | Question | PRD hint | Default | Feeds |

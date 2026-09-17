@@ -51,6 +51,38 @@ Positioning statement to build all creative around — use the formula:
 
 ## Who we target (and stop targeting)
 
+## Offer diagnosis, application ledger, and customer economics
+
+**Offer diagnosis.** State the confirmed desired result, proof that supports confidence, realistic time delay, customer effort, delivery/fulfillment constraints, components, price, eligibility, and any guarantee. Do not turn an assumption into a claim.
+
+| Offer factor | Confirmed evidence or explicitly stated gap | Decision / owner | Validation date |
+| --- | --- | --- | --- |
+| Desired result + proof | {{OFFER_RESULT_AND_PROOF}} <!-- source: intake §1A.1 --> | {{OFFER_PROOF_DECISION}} <!-- source: decision log --> | {{OFFER_VALIDATION_DATE}} <!-- source: owner plan --> |
+| Time delay + effort | {{TIME_DELAY_AND_EFFORT}} <!-- source: intake §1A.2 --> | {{DELIVERY_FEASIBILITY_DECISION}} <!-- source: intake §1A.2 --> | {{OFFER_VALIDATION_DATE}} |
+| Components, pricing, eligibility | {{OFFER_COMPONENTS_PRICE_ELIGIBILITY}} <!-- source: intake §1 + §1A.3 --> | {{PRICING_DECISION}} <!-- source: decision log --> | {{OFFER_VALIDATION_DATE}} |
+| Margin, capacity, repeat/retention | {{ECONOMICS_AND_CAPACITY}} <!-- source: intake §1A.7 --> | {{ECONOMICS_DECISION}} <!-- source: decision log --> | {{OFFER_VALIDATION_DATE}} |
+
+**Source/application ledger.** Review all 14 supplied titles. Each row must contain an applicable lesson with exact PDF page(s), the business evidence, a decision and its destination; or a specific evidence-grounded exclusion. Never cite an author example as business proof.
+
+| Title | PDF source/page | Business evidence or exclusion reason | Decision | Destination |
+| --- | --- | --- | --- | --- |
+| $100M Offers | {{OFFERS_CITATION}} | {{OFFERS_EVIDENCE_OR_EXCLUSION}} | {{OFFERS_DECISION}} | {{OFFERS_DESTINATION}} |
+| $100M Leads | {{LEADS_CITATION}} | {{LEADS_EVIDENCE_OR_EXCLUSION}} | {{LEADS_DECISION}} | {{LEADS_DESTINATION}} |
+| Branding | {{BRANDING_CITATION}} | {{BRANDING_EVIDENCE_OR_EXCLUSION}} | {{BRANDING_DECISION}} | {{BRANDING_DESTINATION}} |
+| Closing | {{CLOSING_CITATION}} | {{CLOSING_EVIDENCE_OR_EXCLUSION}} | {{CLOSING_DECISION}} | {{CLOSING_DESTINATION}} |
+| Fast Cash | {{FAST_CASH_CITATION}} | {{FAST_CASH_EVIDENCE_OR_EXCLUSION}} | {{FAST_CASH_DECISION}} | {{FAST_CASH_DESTINATION}} |
+| GOATed Ads | {{GOATED_ADS_CITATION}} | {{GOATED_ADS_EVIDENCE_OR_EXCLUSION}} | {{GOATED_ADS_DECISION}} | {{GOATED_ADS_DESTINATION}} |
+| Hooks | {{HOOKS_CITATION}} | {{HOOKS_EVIDENCE_OR_EXCLUSION}} | {{HOOKS_DECISION}} | {{HOOKS_DESTINATION}} |
+| Lead Nurture | {{LEAD_NURTURE_CITATION}} | {{LEAD_NURTURE_EVIDENCE_OR_EXCLUSION}} | {{LEAD_NURTURE_DECISION}} | {{LEAD_NURTURE_DESTINATION}} |
+| Lifetime Value | {{LIFETIME_VALUE_CITATION}} | {{LIFETIME_VALUE_EVIDENCE_OR_EXCLUSION}} | {{LIFETIME_VALUE_DECISION}} | {{LIFETIME_VALUE_DESTINATION}} |
+| Marketing Machine | {{MARKETING_MACHINE_CITATION}} | {{MARKETING_MACHINE_EVIDENCE_OR_EXCLUSION}} | {{MARKETING_MACHINE_DECISION}} | {{MARKETING_MACHINE_DESTINATION}} |
+| Price Raise | {{PRICE_RAISE_CITATION}} | {{PRICE_RAISE_EVIDENCE_OR_EXCLUSION}} | {{PRICE_RAISE_DECISION}} | {{PRICE_RAISE_DESTINATION}} |
+| Pricing | {{PRICING_CITATION}} | {{PRICING_EVIDENCE_OR_EXCLUSION}} | {{PRICING_DECISION}} | {{PRICING_DESTINATION}} |
+| Proof Checklist | {{PROOF_CHECKLIST_CITATION}} | {{PROOF_CHECKLIST_EVIDENCE_OR_EXCLUSION}} | {{PROOF_CHECKLIST_DECISION}} | {{PROOF_CHECKLIST_DESTINATION}} |
+| Retention | {{RETENTION_CITATION}} | {{RETENTION_EVIDENCE_OR_EXCLUSION}} | {{RETENTION_DECISION}} | {{RETENTION_DESTINATION}} |
+
+**Lead and handoff definitions.** Contactable = {{CONTACTABLE_LEAD_DEFINITION}}; engaged = {{ENGAGED_LEAD_DEFINITION}}; qualified = {{QUALIFIED_LEAD_DEFINITION}}; disqualify = {{DISQUALIFICATION_RULES}} <!-- source: intake §1A.4 -->. The lead magnet/core-offer fit is {{LEAD_MAGNET_FIT}}; consent and follow-up owner is {{FOLLOW_UP_OWNER}}; sales/product handoff and feedback owner is {{HANDOFF_OWNER}} <!-- source: intake §1A.5–1A.6 -->. Choose acquisition and nurture tactics because they fit this model and evidence, not because an example used booked consultations.
+
 Full dossiers: `../01-avatars/AVATARS.md`. Summary of what the highest-value customer cohort looks like versus the rest ({{VALUE_COHORT_DEFINITION}} <!-- source: avatar research — e.g. "top 20% of N customers by revenue/LTV, cutoff $X, mean $Y" -->):
 
 | Avatar | The call-out | Key lifts |

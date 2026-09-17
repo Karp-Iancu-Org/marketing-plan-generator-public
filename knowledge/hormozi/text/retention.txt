@@ -1,0 +1,1428 @@
+# Extracted text: retention
+
+PDF pages declared: 44. Page markers preserve every PDF page; empty pages are marked explicitly.
+
+===== PDF PAGE 1 =====
+  £ ACQUISITION.COM
+
+
+$1 OOM Playbook:
+    Retention
+   How to Get Customers
+     to Keep Buying
+
+
+
+
+  ALEX HORMOZI
+
+===== PDF PAGE 2 =====
+Disclaimer
+
+The information provided in this book is for educational and informational purposes only. The autho1·,
+publisher, and licensed distributor have made reasonable efforts to ensure that the information within
+was accurate at the time of publication. The author, publisher, and licensed distributor make no
+representation or warranties with respect to the merchantability, fitness for a particular purpose,
+current or continued accuracy or completeness, and reliability of the contents of this book.
+
+The strategies, tips, and tools discussed in this book are the author's personal opinions and are prnvided
+as-is. They are intended to provide helpful and informative material on the subjects addressed in this
+book. Success in any marketing and business endeavors is based on a wide range of factors unique to
+each individual or business.
+
+Laws are subject to change and may vary by location and jurisdiction. You, as the reader, are
+encouraged to consult with a professional where appropriate and review the current local laws before
+implementing any marketing strategies or campaigns.
+
+Earnings and income representations made by the author are aspirational statements only of your
+potential earnings. The success of the author and others referenced herein, testimonials, and other
+examples used are exceptional, non-typical results and are not intended to be and are not a guarantee
+that you or others will achieve the same results. Individual results will always vary and yout· results
+will depend entirely on your individual capacity, work ethic, business, skills and experience, level of
+motivation, diligence in applying the strategies discussed, the economy, the normal and unforeseen
+risks of doing business, and other factors within or beyond your control.
+
+No guarantee is made that you will achieve any result at all from the ideas in this book. The author,
+publisher, and licensed distributor disclaim any representations or warranties (express or implied),
+including, without limitation, those of merchantability, fitness for any particular purpose, current or
+continued accuracy or completeness, and reliability. Reliance on the information provided is solely at
+your own risk. As further described herein, the author, publisher, and licensed distributor shall in no
+event be held liable to you or any pa1· ty for any direct, indirect, punitive, special, incidental, speculative,
+or other consequential damages arising directly or indirectly from any use and/or misuse of this book,
+which is provided "as is", and without warranties.
+
+As always, the advice of a competent legal, tax, accounting, finance, or other professional should be
+sought and obtained.
+
+Any statements that express or involve discussions with respect to predictions, goals, expectations,
+beliefs, plans, projections, objectives, assumptions or future events or performance are not statements
+of historical fact and may be "forward looking statements." Forward looking statements are based on
+expectations, estimates, and projections at the time the statements are made that involve a number
+of risks and uncertainties which could cause actual results or events to differ materially from those
+presently anticipated.
+
+Running a business involves the risk of loss as well as the possibility of profit. All businesses involve
+risk, and all business decisions remain the responsibility of the individual. The author, Bumble IP, LLC,
+Acquisition.com, LLC, and their affiliates (collectively referred to herein as the "Company") have not
+made any guarantees that the strategies outlined in this book will be profitable or beneficial for you
+or your business, and the Company is not liable for any potential business losses related to these
+strategies.
+
+===== PDF PAGE 3 =====
+The C ompany's representatives are professionals, and their results are not typical of the average
+individual. Background, education, effort, and dedication of individuals and business owners will affect
+their overall experience. Any examples shared in this book are merely illustrative and not guarantees
+of a return on businesses or other result. Each reader's results may vary. The Company does not
+warrant the performance, effectiveness, or applicability of any sites listed or linked 1n this book. All links
+are for informational purposes only and are not warranted for content, accuracy, or any other 1mplied
+or explicit purpose. All the information provided in this book pertaining to running a business and
+business strategies is educational only and not specific guarantees of success. Even though reasonable
+precaution has been taken in the preparation of this book, the Company does not assume any liability
+for errors and/or omissions. This book is published without warranty or guarantee of any kind, either
+expressed or implied. The C ompany is not liable for any damages, regardless of whether arising
+directly or indirectly from the use and/or misuse of this book. Readers agree to release and hold
+harmless the Company and its members, employees, agents, representatives, affiliates, subsidiaries,
+successors, and assignees (collectively "Agents") from and against any and all claims, liabilities, losses,
+causes of actions, costs, lost profits, lost opportunities, indirect, special, incidental, consequential,
+punitive, or any other damages whatsoever and expenses (including, without limitation, court costs
+and attorney's fees) ("Losses") asserted against, resulting from, imposed upon or incurred by any of
+the Agents as a result of, or arising out of the reader's use and/or misuse of this book. This book ls
+intended for informational and educational purposes only.
+
+HYPOTHETICAL PERFORMANCE RESULTS HAVE MANY INHERENT LIMITATIONS, SOME
+OF WHICH ARE DESCRIBED BELOW. NO REPRESENTATION IS BEING MADE THAT ANY
+BU SINESS WILL OR IS LIKELY TO A CHIEVE PROFITS OR LOSSES SIMILAR TO THOSE SHOWN
+OR DESCRIBED. IN FACT, THERE A RE FRE QUENTLY SHARP DIFFERENCES BETWEEN
+HYPOTHETICAL PERFORMANCE RESULTS AND THE ACTUAL RESULTS SUBSEQUENTLY
+ACHIEVED BY ANY PARTICULAR BUSINESS, ONE OF THE LIMITATIONS OF HYPOTHETICAL
+PERFORMANCE RESULTS IS THAT THEY ARE GENERALLY PREPARED WITH THE BENEFIT
+OF HINDSIGHT IN ADDITION, HYPOTHETICAL BUSINESS DOES NOT INVOLVE FINANCIAL
+RISK, AND NO HYPOTHETICAL BUSINESS RECORD CA N COMPLETELY ACCOUNT FOR
+THE IMPACT OF FINA NCIAL AND OTHER RISK IN ACTUAL BUSINESS. FOR EXAMPLE, THE
+ABILITY TO WITHSTAND LOSSES OR TO ADHERE TO A PARTICULAR BUSINESS STRATEGY
+IN SPITE OF BUSINESS LOSSES ARE MATERIAL POINTS WHICH CAN ALSO ADVERSELY
+AFFECT ACTUAL BUSINESS RESULTS. THERE ARE NUMEROUS OTHER FACTORS RELATED
+TO THE MARKETS IN GENERAL OR TO THE IMPLEMENTATION OF ANY SPECIFIC BUSINESS
+PROGRAM, WHICH CANNOT BE FULLY ACCOUNTED FOR IN THE PREPARATION OF
+HYPOTHETICAL PERFORMANCE. When used herein, this "book" means this book, its contents,
+and all information and ideas contained therein.
+
+Copyright© 2025 by Bumble IP, LLC and distributed via license by Acquisition.com, LLC. Reproduction
+or translation of any part of this work beyond that permitted by Section 107 or 108 of the 1976
+United States Copyright Act without the permission of the copyright owner is unlawful. Acquisition.
+com®, its logo, and $100M® are all registered trademarks of Bumble IP, LLC and utilized via limited
+license by Acquisition.com, LLC. All rights reserved, including rights for text and data mining and
+training of artificial technologies or similar technologies.
+
+===== PDF PAGE 4 =====
+[No extractable text on this PDF page; consult the canonical PDF image/layout directly.]
+
+===== PDF PAGE 5 =====
+                                            Table of Contents
+
+Churn Checklist............................................................................................................................ !
+
+Solving Problems Like The Big Boys ......................................................................................3
+  The 5 Horsemen of Retention................................................................................................ .4
+  The 5 Horsemen Of Retention: Results ................................................................................6
+  Wliat Is Churn?..........................................................................................................................7
+
+Price, Value, And Churn .............................................................................................................9
+  Relationship Between Price and Churn.............................................................................. 10
+  Provide Ongoing Value To Get Ongoing Customers ...................................................... 11
+  Wliy Is Reducing Churn So Important? ............................................................................ 12
+
+Churn Checklist......................................................................................................................... 15
+
+Putting It All Together.............................................................................................................. 31
+
+Decrease Churn: The Churn Checklist................................................................................ 35
+
+
+
+
+                                   Copyright© 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION                                                  V
+
+===== PDF PAGE 6 =====
+[No extractable text on this PDF page; consult the canonical PDF image/layout directly.]
+
+===== PDF PAGE 7 =====
+                                    Churn Checklist
+
+                  "You're doing sales because you foiled at marketing. You're
+                      doing marketing because you foiled atproduct. "
+                                                - Naval
+
+
+
+
+June 2019.
+     It was no secret I could solve marketing problems by getting people to beat down your
+door with a Grand Slam offer. It was no secret I could solve sales problems with a tidal
+wave of sales appointments. Get enough appointments and get more customers. Easy
+peas y. And it was also no secret that once you got the customer . . . it wasn't my problem
+anymore. See, I always thought that you could make up for one customer leaving by
+selling two more. And it worked . . . until it didn't.
+
+     We had 1 , 000 gym owners in our program. Pretty good. And, as promised , they
+all got customers faster and easier than they did before. Also pretty good. But we had
+a problem. They'd lose their customers as fast as they'd get them. And a business with a
+revolving door of customers is hardly a business at all. So I had two problems to solve.
+First, with the average owner in the microgym space making $ 30,000 a year, every penny
+mattered. Second, if their businesses went under, so would mine. The writing was on the
+wall. Something had to change. Off to the lab I went.
+
+    At 1 5% month-over-month churn , a gym owner loses 83% of their members in a
+year. That means that with 2 5 0 members on J anuary 1 st , they would need 208 new
+clients by Dec 3 1 st, to stay the same. And with 1 2. 5 % margins , if you fell behind by even
+two customers per month . . . you'd lose your gym. And they would. And it sucked.
+       I call this a leaky bucket business. And it's a scary way to live. If you get behind at
+all . . . your business dies.
+
+
+                       Copyright © 2025 by B U M B LE I P, LLC N OT FOR DISTRIBUTION         1
+
+===== PDF PAGE 8 =====
+2   Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 9 =====
+                  Solving Problems Like The Big Boys
+
+   Wracking my brain, I remembered my consul ting d ays working within the Department
+Of Defense. As consultants, we had to ( . . . somehow . . . in six months) learn more about a
+complex problem than people who had been doing it for their entire careers. Then, come
+up with solutions they all believed in. A tall task. But, we kept getting brought back. So,
+something we did was working. We had a very particular process for solving problems. It
+went like this.
+         I ) Ask experts (plural) about the problem.
+
+        2) Get all their answers.
+
+        3 ) Find common threads to solve the problem.
+
+                                      ©           C:1ET A tl� WE tt;
+
+                                "<Rt'� 114.,,.,     ® ,;
+
+                                                                           t:"t NO
+                                                                           LOIV-MON
+                                                                           �A c.."roec;
+
+
+
+
+                                                    ®
+
+     Talking to people who already know your problem gets you solutions faster than doing
+it all on your own. And since everyone puts their own s p in on stuff, talking to as many as
+you can helps eliminate bias and reveals the core problem. And finally, you look through
+all the notes and do a "common factors analysis,, . A fancy way to say "find the stuff they
+have in common" .
+
+
+
+                       Copyright © 2025 b y BUMBLE I P, LLC NOT FOR D I STRIB UTION        3
+
+===== PDF PAGE 10 =====
+                                  $ 1 00M PLAYBO O K: RETENTI O N
+
+
+   The last part can get tricky. But it works like this. Say every expert lists five factors
+contributin g to your problem . But, if you overlap all the factors from all the experts the
+same two pop up each time-solve for those. And that's exactly what we did.
+
+    Following this process:
+        •   I researched all the gym owners with less than 3% month-over-month churn
+            for the last six months. They were the churn-reducing experts!
+        •   I interviewed each about every single thing they did to reduce churn.
+        •   I found five common factors-which became "The 5 Horsemen of Retention" .
+
+
+
+The 5 Horsemen of Retention
+
+
+
+                          s
+
+
+
+                                   fv E tJT5
+
+
+
+
+4                     Copyright © 2025 by B U M BLE IP, LLC NOT FOR D ISTRI B UTION
+
+===== PDF PAGE 11 =====
+                              S O LV I N G PROBLEMS LI KE THE BIG BOYS
+
+
+1 ) Track attendance: I f a member went to the gym three times per week o r more, they
+    would stick. If they went less than twice per week or less, they'd churn out. Attendance
+    looked like this:
+
+            Week 1 : 3 sessions
+
+            Week 2: 2 sessions
+
+            Week 3 : 2 sessions
+
+            Week 4: 1 session
+
+            Week 5 : CANCEL
+
+    The good news: If you talked to them right when their attendance goes down to two
+    sessions, you could rescue them.
+
+        a) Week 1 : 3 sessions
+
+        b) Week 2: 2 sessions (reach out)
+
+        c) Week 3: 3 sessions
+
+        d) Week 4: 3 sessions
+        e) Week 5 : 3 sessions
+
+2) Reach out 2x per week: Praising customers about their participation and progress
+   goes a long way. Solving little p roblems they have does too. Do both.
+
+3 ) Handwritten cards: Send handwritten cards when they sign up, when you ask for
+    referrals at three, six, twelve month milestones. I like holiday and birthday cards too,
+    up to you. Honestly, there's never a bad time to send a handwritten card so long as you
+    make it yourself.
+
+4) Member events: Hold regular events on an internal calendar. Kee p them regular to
+   you and random to them. Every 2 1 , 42, or 63 days is a good cadence. Use handwritten
+   invites (see above) . You reduce churn AND get referrals-a win-win.
+
+5) Exit interviews: If a person says they want to leave then talk to them before they do. Do
+   this right, and save about HALF the p hone and email cancellations. Yes, really. First,
+   set the expectation you'll re quire an exit interview when you on board new customers.
+   Second, use their cancellation notice as the sign to set up the exit interview. Then you
+   can talk to them about it, solve their problems, and get them back on the wagon.
+   Realistically you'd cut churn by 25% (assuming half show) . That's a respectable 3 3 %
+   increase in LTV.
+
+
+                       Co pyrigh t © 2025 by BUMBLE I P, LLC NOT FOR DISTRI BUTI O N      5
+
+===== PDF PAGE 12 =====
+                                 $ 1 00M PLAYBOOK, RETENTION
+
+
+Tue 5 Horsemen Of Retention: Results
+
+   We started to implement all five horsemen of retention with the gyms and here's
+what happened:
+        •   Month I : churn UP by 50% +-- Spooky, but I will explain.
+        •   Month 2: churn DOWN by 50%
+        •   Month 3: churn DOWN by another 50%
+
+     Churn going up right away raises eyebrows-but I call it "shaking the tree". First,
+you've got the people who would've canceled anyway. Second, some people have churned
+as consumers but automated billing still occurs. So once you remind them of it, they
+cancel. Big surprise there. But all's well that ends well. And they made more money, so it
+ends well. As more gyms started to feel ok with "shaking the tree," their numbers looked
+like this:
+        •   Month I : 1 0% to 1 5% churn (up 50%)
+        •   Month 2: 1 5 % to 7% churn (down �50%)
+        •   Month 3: 7% to 3% churn (down �50%)
+
+    We would tell gym owners to expect churn to increase at first. But as long as they do
+the stuff, churn would go down month after month. Remember, a reduction in churn
+from 9% to 3% is a 3.3x increase in lifetime value. The devil is in the details. I have yet
+to see a business with less than 3% churn that does not make great money.
+
+     "The 5 Horsemen" for gyms is alive and well. (If you want more details, check out my
+first book Gym Launch Secrets. It's basically all my playbooks to make a profitable gym.)
+
+                                               ***
+
+
+   Let me bring you to the present day. We own Skool which has millions ofmemberships.
+And as the owner, I can look at the hard data (rather than subjective data) .
+   I can share even more things with you that I know reduce churn in memberships.
+And to be clear- I don't know why these things work. Same as the five horsemen. I don't
+know why they work. I just know that they work. So with that being said, let's dive in.
+
+
+
+
+6                     Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 13 =====
+                             SOLVING PRO B L EMS LIKE THE BIG BOYS
+
+
+What Is Churn?
+     Churn refers to customers who leave over a specific period of time. All businesses
+churn customers, but I explain it with monthly billing because it makes churn easier
+to see. For example: If you start with 1 00 customers this month and have 95 of those
+customers the next month, 5 % of that customer pool churned out. You can also say you
+retained 9 5 % of them.
+        a) Last period = 1 00
+        b) This period = 9 5
+        c) Difference = 1 00-95 = 5.
+        d) Churn = people who left divided by original customer pool= 5 / 1 00 = 5%
+     Note: Churn only counts the pool of customers from the first timepoint. People get
+this twisted. Don't be one. If you sign up new clients during this time, churn stays the
+same. You could sign up zero or 1 ,060 new clients during the same month. But if you still
+lost five of the original one hundred, your churn is still 5%.
+
+
+
+
+                      Cop)'right © 2025 by B U M BLE I P, LLC NOT FOR DISTRI BUTION     7
+
+===== PDF PAGE 14 =====
+8   Copyright © 202_5 b y BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 15 =====
+                            Price, Value, And Churn
+
+
+                                  Prz.,u 1o VA t..lAE
+                                       'OtS.'-fl,E'PA rJ C"-1
+
+
+
+
+    As Warren Buffett says, "Price is what you pay. Value is what you get." If you can
+keep the value customers get greater than the price they pay, customers will stick. You can
+do this two ways. First, you can p rovide more value (thereby keeping customers longer) .
+Second, you can lower the price. I prefer the first. To determine how to keep customers
+longer, I flip the question on its head.
+    Instead of asking "How should I retain all my customers?" I ask "What would make
+my customers leave?,, Then, I do the exact opposite.
+
+"What can I do to churn 1 00% of my customers?"
+
+    •   Ignore them
+
+    •   Break promises
+
+    •   Miscommunicate
+
+    •   Treat them poorly
+
+    •   Set unrealistic expectations
+    •   Hide progress and other updates from them
+
+                      Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION            9
+
+===== PDF PAGE 16 =====
+                                                                                                              $ 1 00M PLAYB O O K: RETENTION
+
+
+              •             Keep them away from other happy customers
+              •            Make my stuff harder to use.
+
+So to keep 1 00% of customers, do the opposite:
+
+              •            Talk with them
+
+              •            Keep your promises
+
+              •             Communicate dearly
+              •            Treat them like royal ty
+
+              •            Set realistic expectations
+              •             Give them status updates
+              •            Connect them with other happy customers
+              •            Make it as easy as possible for them to get the most value they can.
+
+              Seems obvious. But nobody does it. Because . . . it's work.
+
+              Let's dive into all three variables: price, value, and churn.
+
+
+
+Relationship Between Price and Churn
+
+    The most sales at the highest LTV is the best p rice. This doesnt necessarily mean
+lowest churn, but bear with me. Look at the chart below. Let's assume we sell something
+for $ 1 0. You can see the various other factors the price affects, including churn.
+
+           Price                               Cl icks                        Conv Rate                                      Sales                               Churn                            LTV                     Total Return Difference
+:            $1 0                    :              1 00                                   5%                     :                5                      .         1 0%               .         $1 00                .           $500                    :
+
+                                                                                                                                                                                                               .... ; .......
+                                                                                                                                                          i O • +I +•+• • • • •• • ■ • ■ • � • 0••+++fO O• • • • • • ■ •�• • •+f I tttt O O OO• • • PP•• • :• •• • • •• •0 00 000 0 t+• :
+
+                                                                                                                                                                                                                                                   ....
+: • , • • • + I + • + I O O O I O o o ; • o • o • • • ■ • • • 0 I O • 0 0 • : • o o o o • • • • • • • • • • • I O : + I + • o o • • • • • • • • • • • 0
+
+
+
+
+=. . . . . . . ��?. . . . . . . !. . . . . . . .� ?? . . . . . . �. - . . . . . . ��- . . . . . . �. . . . . . . . . � . . . . . . . . i. . . . . . . �.?.� . . . . . . .l . . . . . .��??.. . ��??. ... .i . . . . . . �?.� . . . . . . .;
+                                                                     ...                                                                                                        ....                            ...
+ L . . . . .�.1.??. . . . . . l . . . . . . .�??. ... t . . . . . . . �� . . . . . . . L . . . . . . . � . . . . . . . . ! . . . . . ?�.� - . ! . . . . . ��??. .. 1 . . . . . . . ��??. . . . . . . . ! . . . . . . �?.� ...... !
+
+Note: 7he price in the example doesn't matter, but the relationship between the numbers does.
+
+
+    So what's the best price? The $20 price point. Now, we'd probably test more prices
+between $20 and $ 1 00. I'd look at $ 3 9-$ 5 9 . Because if churn stays lowish, these may
+be the most profitable options. But pricin g affects both conversion rate and churn rate,
+
+
+10                                                                            Copyrigh t © 2025 b y BUMBLE I P, LLC N OT FOR DISTRI BUTION
+
+===== PDF PAGE 17 =====
+                                    PRICE, VALUE, AN D CHURN
+
+
+which both suffer as prices go up, but not always proportionally. If you can double your
+price and close 20% fewer deals, with all else staying the same . . . you should do it! And
+that's exactly what the chart shows with the relationship between the $ 10 and $20 price
+point. So the first and most important thing to do is test, test, test.
+    Across the Skool platform, unsurprisingly, the higher the price, the higher the churn.
+Many businesses misprice their products. For example, they'll try to create something
+recurring out of something that has one-time value. You want to match your business
+model with the pricing model that makes the most sense.
+    A big part of succeeding in a recurring revenue business is providing ongoing value.
+So, let's go there next.
+
+
+
+Provide Ongoing Value To Get Ongoing Customers
+
+
+
+
+    Think value per second, not seconds of value. Less but better is better than more and
+decent. Overwhelm is the # 1 reason for churn.
+    I have a friend who ran a newsletter business that made $500k per month. I asked
+him what he did to decrease churn. He said "I can tell you all the things that didn't
+work. When churn was the lowest I did one Q&A call per month and I just stayed on
+until everyone's questions were answered. Then I wrote one long physical newsletter per
+month." I asked him what he did after that. "I went from calls once per month to calls
+once per week. Then I added all these other things . . . but everything I added increased
+churn." Moral of the story: Sometimes less is more. There is wisdom in deletion. Decide on
+the core two or three things you deliver and focus on making them really good.
+   For example, Gym Launch is on its 1 0th version. Each version has gotten shorter and
+simpler because the #1 reason for churn is overwhelm.
+
+                      Copyright © 2025 b y BUMBLE IP, LLC NOT F O R DISTRIBUTION        11
+
+===== PDF PAGE 18 =====
+                                   $ ! DOM PLAYBOOK: RETENTION
+
+
+     Retention comes down to making sure they CONSUME the value, rather than
+overwhelming them with it. So you want it to be as little and as good as possible. The vast
+majority of people start a YouTube video and don't finish it. They start a course and don't
+finish it. They set a goal and don't follow through. You need to make it as easy as possible
+for them to consume your product. Reduce effort and sacrifice. When customers stop
+consuming, you want to contact them more and more often.
+
+     This all seems like a lot ofwork, so let me explain why I think it's wellworth the effort.
+
+
+
+Why Is Reducing Churn So Important?
+
+   It's easier to sell customers than it is to sell strangers. Think about it this way. . .
+imagine you had a prospect who:
+         •   Already trusted you
+         •   Already received value from you
+         •   Already gave you their credit card
+         •   Has no acquisition costs
+         •   Is your ideal customer
+
+    This isn't a prospect-these are your existing customers. Your existing customers are
+easier to sell (and cost significantly less) than new customers. So-invest effort accordingly.
+
+     To show how impactful this is, if you cut your churn from 1 0% to 3%, you 3.3x the
+lifetime value of every customer. Instead of staying for 1 0 months, your customer stays
+for 33 months. Of course, you have some additional costs (retention investments) on the
+customer, but they're usually small.
+
+
+
+
+12                      Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 19 =====
+                                    PRICE, VALU E, AND CHURN
+
+
+
+
+      \'2.\(.E. � � \Q() /M O
+                                      - $1000                   � \00 /M O
+                                                                                    $�ss�
+      l�u.tZ N �       10 1.              t..1'\I
+                                                                                    -=�
+                                                                                    t..TV
+
+                        T                                                                -.
+                                           I II
+                                                                �                    4
+
+                   M t C,I\ ll\lAft N
+                                                                        t
+                                                               � CJ,\U R, t.J
+                    Low LT V -                                 M tG,I\      L-T\I
+
+
+    Contrast that with the amount of effort it would take to 3 .3x the number of customers
+you sell every month. First, that would cost way more to do-that's a promise. Second,
+even if you did that, you accelerate how quickly everyone in your market knows you suck.
+Also bad.
+    And here's three more reasons, as if you needed them:
+        1 ) Best returns on effort. It costs five (Sx) to twenty-five times (25x) more
+            to acquire a new customer compared to retaining one. So, if you're looking
+            at your resources, entrepreneurs who allocate money to keeping customers
+            make . . . way better returns.
+                a) Just give yourself a budget of what you're willing to spend extra to
+                   keep a customer. Make it I /5th of Customer Acquisition Cost (CAC)
+                   and you'd be amazed how far that goes.
+        2) Tiny changes make huge differences in profit. A study by Harvard Business
+           Review found that increasing retention by 5% increased profits by 25% to
+           95%. So if you went from customers canceling in 1 month to 1 .05 months
+           on average, you could increase profits by 25 % to 9 5%. Monstrous.
+
+       3 ) It's the only path to compounding growth. If referrals are greater than churn,
+           you never stop growing. For example, if 1 0% of your customers churn every
+           month but you get another 1 0% in referrals (and don't acquire customers any
+           other way) , you'll stay flat. But if you decrease churn OR increase referrals,
+           you'll grow. Bonus: when you do the activities that decrease churn, you have
+           happier customers and happier customers send more referrals.
+
+
+                      Copyright © 2025 by BUM BLE IP, LLC N OT FOR DISTRI B UTION             13
+
+===== PDF PAGE 20 =====
+                                    $ 1 00M PLAYB O O K: RETENTION
+
+
+   Okay. Hopefully you're sold on why you should decrease churn. Now, let's cover how
+we do it.
+
+
+
+
+     Author Note: Churn Varies By I n dustry
+
+     If you are i n an ind ustry whe re you se rve VS M Bs (very smal l bus i ness owne rs),
+     you will h ave what's cal led "stru ctural chu rn". They go out of busi ness. Th is
+     makes yo u r bu s i ness a h igh c h u rn business. And that's okay. You sti l l want to
+     decrease it. And if you do, you can sti ll bu i l d a big co mpany. Shopify an d Skoal
+     are both examples of large busi n esses that serve (by perce ntage) ve ry smal l
+     customers . To b e clear, it doesn't mean that yo u can't make more money from
+     you r bigger cu stomers.
+
+
+
+
+14                      Copyright © 2025 by BUMBLE I P, L L C N O T F O R DISTRIBUTION
+
+===== PDF PAGE 21 =====
+                                  Churn Checklist
+
+    For the purpose of this playbook, we're going to boil churn-reduction (or customer
+retention!) down to simple activities that I know work across many businesses.
+    The churn checklist steps are as follows:
+        1 } Figure Out Activation Points
+        2) Onboard Your Customers
+        3) Incentivize Customer Activation
+        4) Community Linking/Events
+        5 ) Fire or Correct Bad Customers
+        6) Add Annual Payment Options
+        7) Cancellation CallNideo
+        8) Survey Customers Regularly
+
+        9) Make a Customer Journey
+
+
+   To make these real, I am going to use Skool as an example throughout. This checklist
+reduces churn across zillions of different businesses hosted on the Skool platform. And
+one last thing, not all of these will apply to your business. So if you find one and think
+"That won't work for me,, - you might be right - but many of them will.
+   With that being said, let's start with Activation Point.
+
+
+
+
+                      Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRI BUTION         15
+
+===== PDF PAGE 22 =====
+                                  $ 100M PLAYBOOK: RETENTION
+
+
+
+
+     Churn Checklist #1: Figure Out Your Activation Points
+   Activation points refer to leading indicators of customer retention. Use this template:
+Every customer that does (X thing) or gets (Y result) stays for longer than customers
+who don't.
+
+    A Skool host retains more customers when they interact in the Skool community
+more often. And we break the customer activity into different levels, each one with a
+retention statistic. When the customer reaches an activity level of "3" they have the highest
+chance ofstaying the longest.
+    Exact numbers matter less for you than knowing two things: First, that customer
+engagement matters. Second, segmenting customers based on their engagement makes
+customer retention tools more effective.
+
+     Skool retains its hosts by helping them get customers. For instance, current data show
+hosts that get at least three group members stick with Skool way longer. That means we can
+roll the dice and hope they can get three members or . . . help them get three members. And
+Simo! helps its hosts acquire members with custom tools, education, and other resources
+in development as we speak.
+
+     Here's how to find your activation point:
+     •   Find your churned customers. Gather all the data you can about churned
+         customers.
+     •   Find who stayed for three months or longer. Three months is a convention, but
+         there is nothing special about three months. You can do whatever time you want.
+     •   Order that list by who spent the most money. Take the top 20% of customers.
+
+
+
+
+16                     Copydght © 2025 by BUMBLE I P, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 23 =====
+                                       CHURN CH ECKLIST
+
+
+    •   Learn everything you can about them. Look at demographics, psychographics,
+        income, business size, revenue, and any other data you have. Survey customers if
+        you don't know.
+            0
+                PR Agency Example: you analyze your customers and find that one spe­
+                cific avatar pays more, stays longer, and gets better results. You only serve
+                them. True story with a company I advised who 1 Ox'd their business over the
+                next 24 months.
+    •   Figure out how they used your stuff and how you treated them. And like the
+        solution framework from earlier, common factors become your activation-point
+        candidates. Narrow it down to five factors and start working your way down
+        the list. Some will matter and some wont. But find the ones that do, and you'll
+        win big.
+
+
+
+
+    Bonus: Update your messaging
+    Remember all the work you did investigating the biggest spenders that stayed the
+longest? Advertise to those peop le. Update your paid aids, organic content, and customer
+onboarding to select for the perfect customer. Then you can focus on treating them
+that way.
+    •   Updating Messaging: When I ran Gym Launch, I had a competitor who would
+        sell j ust as many people as we did. But I would make 70x more profit. His cost to
+        acquire a customer was about the same as mine, He ran ads to everyone in fitness.
+        I only targeted people who had the highest chance of staying the longest (thus,
+        paying the most) . But the main difference was his customers were worth $ 5 , 000
+        and mine were worth $42,000 (in the first year) . We did this by finding the com­
+        mon factors between the top 20% of our customers, and used those to qualify
+        prospects ahead of time. Result? 70x more profit.
+
+
+
+                      Copyright © 2025 hy BUMBLE I I� LLC NOT FOR DISTRIBUTION            17
+
+===== PDF PAGE 24 =====
+                                    $ 1 00M PLAYBOOK: RETENTION
+
+
+     •   Updating Onboarding: At Gym Launch, our churn was at 8% and we wanted to
+         get it to 4%. We asked "When do people first get value from the product?" The
+         more we honed in on it, we noticed the people leaving didn't make their invest­
+         ment back quickly. And the people who stayed the longest made their investment
+         back in the first 30 days. So we created what we called "The Fast Cash Play" and
+         pushed every client to recoup their investment in their first 30 days.
+             °   Churn went from 8 % to 3 % within six months.
+             °   Common activation points: they are different for every company. But
+                 here are a few common examples:
+                 ■   B2B service company: first time they get leads
+                 ■   Software company: first time they login and see the dashboard
+
+                 ■   Physical product: first time they use the consumable product
+
+    Action Step: Find who your best customers are. Find your activation point. Update
+your messaging to attract your best customers. Update your onboarding to drive to your
+activation point. Retest every 6- 1 2 months.
+
+
+
+
+     Author Note: Who > What
+     O n e of the highest leverage thi ngs you can do i n a busi ness is s i m p ly se rve
+     better custo m ers . If I i m p rove a $1 00M busi ness by 1 0% vs. $1 M by 1 0%, it
+     may be the sam e work, but it's 1 OOx the value to the first business owner.
+     Find those people. Price appropriately. Ignore th e rest.
+
+
+
+
+18                      Copyrigh t © 2025 by BUMBLE I P, LLC NOT FOR DISTRI B UTION
+
+===== PDF PAGE 25 =====
+                                        CHURN CH ECKLIST
+
+
+
+
+                                                                                    1',1-1. "''
+                                                                                       'lotAfl.
+                                                                                      GoAl.�
+
+
+   Churn Checklist #2: Onboard Your Customers.
+    People use onboarding to mean lots of things. Here, I mean "Teach customers how
+to hit the activation points I just painstakingly investigated." You can onboard with a
+booldet, a video, a call, an event, whatever. Just consider these general guidelines.
+
+   Custom outperforms generic.
+
+   Personal outperforms group.
+
+   Live outperforms recorded.
+
+   Carrots outperform sticks.
+
+Last, and most important, some beats none.
+
+   I onboard customers this way:
+       0
+           Outline how to get value ➔ Drive them to the activation point
+
+   Here's what the best communities on Skool do:
+
+               ■    Tell them to make a post with a specific structure and comment on
+                    one or two other posts
+               11   Tell them where to start
+
+               II   Connect the four to six people together after the onboarding so they
+                    already have people they know
+               11   Tell them what they unlock once they do their homework and get to
+                    level 3 (homework gets them to level 3)
+
+               II   Show them what to cancel or do to save the money for this member­
+                    ship. Then tell them to do it as homework and show they did
+
+
+                      Copyright © 2025 by BUM BLE I P, LLC N OT FOR DISTRI BUTION                 19
+
+===== PDF PAGE 26 =====
+                                    $100M PLAYBOOK, RETENTION
+
+
+         0
+             Resell the value of the purchase-important! Frame it within the context of
+             their goals
+         0
+             Tell them how they can unlock more value as they stay longer
+                 ■    For Skool, some groups say members can get the group for free, for
+                      life, once they reach level 8. (It'll make you more than it costs you)
+         0
+             Tell them best practices to communicate with you, your team and other
+             customers (especially if they see each other physically or virtually)
+
+                 ■ At Skool, we tell them how the categories of posts work, group rules,
+                   and deliverables from you to them
+         0
+             Follow up
+                 ■    Use the onboarding to establish long-term communication with the
+                      customer. Customers should always know when you'll speak to them
+                      next
+
+
+     Do this for sales prospects as well. It will increase your close rate.
+•    Optional: You can sell onboarding. For example, you give a new gym member six
+     personal training sessions before allowing them into the general attendance group
+     classes. This is wildly effective. You let the customer know they have to earn the right
+     to enter the general customer base.
+
+
+   Action Step: Onboard your customers. If you sell an expensive thing, do one-on-one.
+Ifyou sell cheap stuff, do what makes the most sense for the cost. just do something. Every
+time I have followed this checklist, churn goes down. I've never done it and it not work.
+
+
+
+
+20                       Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 27 =====
+                                          CHURN CHECKLIST
+
+
+
+
+Churn Checklist #3: Incentivize Customer Activation
+
+     You fi gured out what the p erfect customer does. You onboard all new customers to do
+all that stuff. Now, it follows to make it worth it for them to do it! This can mean getting
+new features, recognition, free or discounted products, more access to important p eople,
+and so on. You gotta do what makes the most sense for the thin g you sell. A vast maj ority
+of Skool host cancellations come from people in the bottom two tiers of engagement. This
+means a vast majority of retained customers sit in the top tier of en gagement. Conclusion,
+the more a customer uses Skool, the longer they stay a customer.
+    •   Ex: Skool incentivizes activation with:
+
+            °   Courses that unlock
+            0
+                One-on-one consulting calls or bundles of calls once they reach a certain
+                duration or status
+
+
+                       Copyright © 2025 by B U M B LE IP, LLC N OT FOR DISTRI B UTION    21
+
+===== PDF PAGE 28 =====
+                                     $ 1 00M PLAYBOOK: RETENTIO N
+
+
+             0
+                 Tickets to live or virtual events
+             0
+                 Access to another set of higher tier calls
+             0
+                 Custom badges,. profile ima ges, and other indicators to say that they're "in"
+             0
+                 At level 8 , (a very hard level to attain) they give members free lifetime
+                 access
+     •   You can also incentivize stayin g longer for its own sake:
+             0
+                 By putting some incentives just after major churn points, you can retain
+                 more customers on the edge-easy and effective
+             0
+                 Ex: If most customers leave after the third month, put something cool
+                 that unlocks on month four
+
+    Action Step: Give your customers relevant and valuable incentives to become perfect
+customers. To further reduce churn, make other cool bonuses, unlockables, etc. available
+only after they've stayed beyond major churn points. And you don't need to build it all at
+once. Each chan ge will have a positive effect on its own.
+
+
+
+
+     Pro Tip: Usage Churn
+
+     A lead i ng i nd icator of chu rn is what's cal led " U sage Chu rn''. which is when a
+     customer is still subscribed but no longer uses the product. If yo u se l l an an nual
+     co ntract but a customer stops using your service at six months, it's l i ke ly
+     they' ll chu rn. But if yo u i ntercept them right when they stop using it and get
+     the m to kee p using it, it's l i kely you' l l retai n them.
+
+
+
+
+22                      Copyrigh t © 2 0 2 5 by B UMBLE I P, LLC N O T F O R DISTRIBUTION
+
+===== PDF PAGE 29 =====
+                                          CHURN CHECKLIST
+
+
+
+
+Churn Checklist #4: Community Linking/Events
+
+      Connect members to each other, not you. It's more scalable to facilitate multiple,
+deep er connections than one single tie to the group. A saying we have in the gym world is
+'1t's easy to quit a membership, it's hard to leave a relationship. " We also say "They come for
+the bikini. They stay for the community. " Here's how we make it happen.
+        0   Group events
+                 ■ We have a lady who runs a Skool group and moved from one-on-one
+                   onboarding to one-on-six onboarding. Not to make it less personal­
+                   ized, but to intentionally connect people and introduce them to each
+                   other. As a result, she had low churn.
+
+                 ■   At our gyms, we'd run group events frequently. People came for the
+                     six-pack and stayed for the community.
+        0
+            Manually connect people. If you think a member would benefit from knowing
+            another member, connect them.
+        0
+            Start a community podcast. Interview members.
+        0
+            Elevate micro-celebrities within your community. You do this by calling them
+            out in public channels and praising them for their specific area of expertise.
+
+    Action Step: Host group events. Manually connect people. Start a community podcast.
+
+
+
+
+                       Copyrigh t © 202 5 b y BUM BLE I P, LLC NOT F O R DISTRIBUTION        23
+
+===== PDF PAGE 30 =====
+                                 $ ! QOM PLAYBOOK: RETENTION
+
+
+
+
+Churn Checklist #5: Fire or Correct Bad Customers. They make it bad for everyone
+else.
+    Incentivize positive behaviors and give feedback on bad ones. Here's how we use this
+for Skool groups:
+       0
+           Delete bad posts and tell people why they sucked and tell them what good
+           looks like
+       0
+           Give three strikes on bad posters
+       0   Pin the best one or two new posts daily
+               ■ This elevates those people and provides fresh value to everyone else.
+                 Helps them level up to level 3 as well. And signals to the group what
+                 types of content you reward.
+       0
+           Make topic categories for what you want people to post. But include these
+           four: wins, fun, discovered, and meetups. Call them whatever you want.
+               ■ Wins give you testimonials
+
+               ■   Fun keeps it light and lets people talk about whatever
+
+               ■   Discovered: tell people to share what they've discovered using data
+                   and proof
+
+               ■   Meetups: gives people a place to connect on or offiine
+
+
+    Action Step: Incentivize good behavior (pin posts, praise in public, provide value
+to everyone else) . Eliminate bad behavior and tell people why it was bad and what good
+looks like (kick them out after three strikes).
+
+
+
+
+24                    Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 31 =====
+                                          CHURN CH ECKLIST
+
+
+
+
+                                                           ?•
+Churn Checklist #6: Pricing: Add Annual Payment Options
+    Customers who pay for longer stays . . . stay longer. So, if customers want to stay
+longer, allow them to pay to stay longer. When you add annual payment options, some
+customers will take them. And, as a result, stay for an entire year. This extends the average
+stay per customer.
+
+    You can make the annual option mandatory or simply make it an option. If you make
+it mandatory (as in, the only way to pay) , it will decrease sales. But, it will decrease churn
+as well. Sometimes that will make you more money overall. If you sell over the phone or
+via webinar, then this is a solid option to consider.
+    If you sell via website checkout (typ ically smaller overall price points) , simply make
+the annual option available. Typically 1 0-20% of people will take the annual option
+if you price at "buy 1 0 months get 2 free.)) To increase the number of people who take
+annual without removing the monthly option, offer a steeper annual discount.
+•   Pricing Your Annual Payment Option. Price it above your avg # of months if less
+    than 1 2. If your average number of months stayed is greater than 1 2, make it buy 1 0
+    get 2 free ( 1 6% off) .
+        0
+            Example: If your average client stays for six months and pays $ 1 ,000 per
+            month for a total of $6,000, then price your annual option above $6,000.
+•   Alternative One: Big upfront (one-time) with small monthly payments works
+    well.
+        0
+            Make the big upfront thing somethin g that has big one-time value (education
+            or one-time implementation/setup) . Price according to THAT value. Then,
+            make the recurring according to the consumable value (which may be far less) .
+
+                11   Example: I call this a "big head, lon g taff' where you might charge
+                     $6,800 u p front for education or a setup fee; then $ 1 99 for the com­
+                     munity and everything after that. What happens is the base contin­
+                     ues to stack (you'll likely have a high upsell rate) . You might get 30
+                     months of LTV out of the $ 1 99 and increase LTV from $6,800 to
+                     $ 1 2,800 because you are ap propriately priced.
+
+                       Copyrigh t © 2025 by B UMBLE I P, LLC N OT FO R DISTRI BUTION        25
+
+===== PDF PAGE 32 =====
+                                                                                                               $ 1 00M PLAYB O OK: RETENTION
+
+
+                            0
+                                        You can put the high-ticket one-time purchase in a free community, then sell
+                                        them into the lower-ticket recurring paid community.
+                            0               Or-someone can join your paid group then you can upsell them to the high­
+                                            ticket one-time purchase over the phone.
+                            0               Make sure to include the recurring fee WITH the one-time upfront fee and
+                                            not make it a second sale. Otherwise, you lose the price anchor between the
+                                            first big purchase and second small recurring fee that drives the retention.
+                            0
+                                        Agency example from $JOOM Offers with a one-time setup fee:
+
+
+                            Metric                                                                 Elommodity                                                                      G rand Slam                                                                        Difference
+
+           Advertis i ng Spend                                                .                           $1 0,000                                                                        $1 0,000                                              .                     U nchanged
+                                                                              .                                                                               .                                                                                 .
+• • • • • • • • • • • • • • • • • • • • • • , • • , • • • • • • • • • • • • • • • • • • • • • • • • • • • • • , • • • • • • • • • • • • • • • • • • • • • • • 1 • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • , , • • , , • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
+
+
+
+       I mpressions Reached                                                   I                           3 00,000                                           j                            3 00,000                                              I                     U n changed
+                                                                                                                                                                                                                                                          2 . Sx Response
+                Response Rate                                                                             0.0001 3                                                                        0.0003 3                                                       (more appealing,
+                                                                                                                                                                                                                                                                    ���P.�.r:-.':'.) . . ' .
+                                                                                                                                        .                    .                                                           .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ; . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . , . . . . ' . . . . . . . . , ' . . ' . . , , ' . . ' . . . . . ' . . ' . . . . . . . . . . . ; ' . ' ' �.?. . ���� . .
+                                                                             ,                                                                                                                                                                  ,
+
+                                                                                                                                                                                                                                                                 Res u lt
+• •••• ••••••••••••••••••••••••••••••••••••. •••••••••••••• • • •••••••• • • • • • •••• • • • • • • • • • • • ••••••• •••• • 1• •00• • •• • • • • • • • • •• • • • • ••••..: • • • •••• • • • • • •••• • • •••••••• • • ••••••••••
+                Appts Booked                                                 :                                    40                                          :
+                                                                             ,
+
+                                                                                                                                                             ,
+                                                                                                                                                             ..                                                                                 ,
+
+                       Show Rate                          :.
+. . . . . .. . . ............. . . . . ... ......................
+         ,,      ,      ,                                         ,                      .75%
+                                                                                           . . . . ........ . . .... . . . . . . . . . . ....... ........
+                                                                                                                          ,
+                                                                                                                                                              .:
+                                                                                                                                                               .'
+                                                                                                                                                                          75%
+                                                                                                                                                                                    . ........ . .... ........: . . . . .......Unchanged .... . . . .... .... ......... . ,
+
+
+.................... .. ...... . . .... ... ...... . . . .... ..... . . . . .. . . . . . . . .... . . . . ......... . . . . . .. . . . . . . ........ . . .. .. . . . . . . . . . .. . . . . . Result
+                Appts Showed                               :                                30                                                               :               75                                          :
+                                                                             '
+
+                                        ,     ,                                             ,       ,                                                                                                                                 ,   . .... . . . .. .... .. ...
+                                                                                                                                                                                                                                            ,                                                     ,         ,     ,,        ,
+
+                                                                                          1 6%                                         I                                   3 ?%                                         I      2.3x  Closi        ng (more
+. . . . . . . . . . . . � -��'.��. � . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .! . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[ . . ��!��.'- .��. .����. �.':IY) . .
+                             I
+
+                                                                                                                                                                                                                        .
+                 Appts Closed                                                                                       5                                        j                                     28                                           j                             Resu lt
+
+                                 Price                                                                      $1 ,000                                                                         $3 ,997                                             :    4x Price (one-time
+. . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. .. . .. . : . . . . .......... . . . . . . .. . . . . . . .... . . .... . = . . . . .. . . . . .... . . . . . .. . . . . . . . ........ ... I . . . . . ���- ��. ���.�-                              �.�! ��). . . . .
+                             Total                                      i                     $5,000                                    !                      $1 1 2 00 0                                ;                                            ll . 4x C ash U p
+... . . . .. . . . ............              . . . .. . . . .. ... ...l . . . . ... . . . . .... ........ ... .... . . . . . .! . . . . . .......... . . .. '.... . ... . .... . . . . ...I . . . . . . . . . . . . . . ...... . . ... ..
+                                                                      ,                                                         ,       ,,                                                            ,
+                                                                                                                                                                                                                                                      Front Collected ,..........
+
+                                ROAS                                         :                                   .S: 1                                       [                               1 1 .2: 1                                          [      G et paid to get
+                                                                             .                                                                               .                                                                                  .        customers.
+
+
+
+•          Alternative Two: Implement "founder rates" to convert more people and keep them
+           longer. A founder rate is a discount for the owner of a business. A 5 0% decrease is a
+           great way to start (provided gross margins are still there) .
+
+
+
+    Action Step: Add annual pricing option. Alternatively, add a one-time payment up
+front with a smaller monthly. Alternatively, create a founders price which incentivizes
+people to both buy and stay.
+
+
+
+
+26                                                                            Copyrigh t © 2 0 2 5 b y BUMBLE JP, LLC NOT F O R D ISTRI B UTION
+
+===== PDF PAGE 33 =====
+                                         CHURN CHECKLIST
+
+
+
+
+Churn Checklist #7: Exit Interviews or Cancellation Videos
+
+    You can usually save half of the people who will hop on a cancellation call.
+•   Half the people say F you. Of which, you get great feedback on how to improve your
+    stuff. The other half, you can save them in one of two ways:
+        0
+            Save with a redo. "Let me give it another shot and I'll make it right."
+        0
+            Save with an upsell. You realize they need more help and should've been in
+            your higher program. You credit their payment toward the higher program.
+            "You should have been sold into that anyways. And that's on me." You still get
+            a higher ticket sale. They still want the result, they don't want to leave. Find
+            the expectation that was unmet and see if you can meet it.
+•   The chances you'll "save" them on a call are higher than in email or text.
+        0
+            Example of what you could say in a text/email: "Hey, no pressure. I would
+            love to hear all the reasons you hate me. It would really help me out so that in
+            the future I can avoid it."
+
+                ■   Let them vent. Get more upset than they are-only one person can
+                    be in the angry boat at the same time. "That's completely ridiculous.
+                    You're 1 00% correct. Will you give me the opportunity to make it
+                    right?" Because they just want to feel validated . . . they don't want to
+                    fight. "And j ust so we're clear, if these things happened, you would
+                    be hap py?'' Then that becomes a clear roadmap for what needs to
+                    happen.
+•   Resell them on why stayin g hel p s them achieve their goals.
+•   Tell them what they're gonna lose that they spent time on or gave them status: custom
+    URLs, Posts, Access, Founder pricin g.
+        0
+            Many software companies are experts at this. If you lose your data, or it's hard
+            to move it, or you lose work you've done . . . it's less likely you'll cancel.
+
+
+
+                      Copyright © 2025 b y BUMBLE I P, LLC NOT FOR DISTRIB UTI O N        27
+
+===== PDF PAGE 34 =====
+                                    $ 1 00M PLAYB O O K: RETENTI ON
+
+
+•    If you have a high-volume low-price business, hopping on the phone with churning
+     customers may not make sense financially (although it almost always does by what
+     you learn from them) . But in case that's you, you can cut churn by simply adding a
+     cancellation video that reminds them why they started (aka - resell them) and reminds
+     them of what they risk losing by canceling.
+
+
+
+   Action Step: Tell new customers you do cancellation calls. Get the customers on the
+phone. Resell them.
+
+
+
+
+                            ®00
+Churn Checklist #8: Survey Twice a Year With All The Things You Provide
+
+   This helps you identify the core two or three things your product or service does. Ask
+them, "If I removed everything on this list but one, what would you want to keep the
+most?" and follow up with "If I kept everything on this list but one, which would bother
+you the least to see me remove?"
+
+    We have a portfolio company who asked this question. They learned their customers
+loved the events they threw. They listened to what the customers said and events became
+one of their largest product lines.
+•    Between lat·ge surveys, reach out to customers regularly. We found that reaching
+     out to customers one-on-one every two to three weeks retained more people than never
+     speakin g with customers. The subject of the reach out followed the ACA framework.
+     Acknowledge what you've seen them do. Compliment them on something. Ask a
+     question. Extra finding: counterintuitively, the wealthier the customers, the less
+     handholding they typ ically want.
+
+
+
+
+28                     Copyrigh t © 2025 b y B U M B LE I P, LLC N OT FOR DISTRIBUTION
+
+===== PDF PAGE 35 =====
+                                        CH U RN CH ECKLIST
+
+
+    Action Step: Survey your customers twice per year and ask them what they value and
+what they don't. Do more of the stuff they like. And cut that stuff they don't. Reach out
+to them regularly so it looks like you care (because you should) .
+
+
+
+Churn Checklist #9: Make a Customer Journey
+
+
+
+          Four
+
+     A c.T, "ATE
+
+    (011 :<)                                                        H
+    This doesn't have to be complicated. You can start with the four milestones that I
+want every customer to do: activate, testimonial, refer, ascend. You can also incentivize by
+giving them something at each milestone. This works great when paired with unlockables.
+     The last step-ascension-is one I want to emphasize. Customers get an itch to buy
+more stuff over time. And they're gonna buy it from you or the guy down the street. So
+you might as well save yourself the churn and bring in new revenue all at once. Afterall,
+if someone just bought another thing from you, they're the least likely to churn. So ask
+them to buy!
+
+    Note: besides activation, 2-3-4 (see image above) may all happen in different orders
+depending on the customer and business model. But ideally, all four hap pen. And they're
+definitely more likely to happen if you p lan for it than if you don't.
+
+
+
+
+                      Co pyright © 2025 by BUM BLE IP, LLC N OT FOR DISTRI BUTION        29
+
+===== PDF PAGE 36 =====
+30   Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 37 =====
+                             Putting It All Together
+
+
+
+
+    If you keep customers longer, your LTV will increase. If your LTV increases you can
+spend more than anyone else to get more customers. When you do stuff that reduces
+churn, you do stuff that makes customers happier. Happier customers send more referrals.
+Goodwill spreads. You build a real brand. You sell for a zillion dollars and cure cancer.
+The end.
+
+      I have never not made more money by going through and applying this checklist. It
+works every time. And to be clear I don't know which steps worked better than others, I
+j ust know that doing them all worked. I 'd highly recommend you go through the action
+steps and imp lement it into your business. These are the types of high-leverage tasks that
+grow businesses.
+
+    As my one final push as to why you should actually follow these steps.
+When you implement the churn checklist and keep your customers, you . . .
+    •   Grow every year no matter what, even if your sales stay the same
+    •   Create more profit from the same customers
+
+    •   Compound your business
+    •   Sleep great knowing all your bills are paid for every month and you have a group
+        of customers that love you
+    •   Get p ositive word of mouth, getting you even more customers for free
+    •   Keep the best talent because they see you are actually helping people
+
+                      Copyright © 202 5 b y BUM BLE I P, LLC NOT FOR DISTRIBUTION       31
+
+===== PDF PAGE 38 =====
+                                  $ 1 00M PLAYBOOK, RETENTION
+
+
+
+When you have high churn, you. . .
+     •   Have to keep getting new customers every month, just to stay the same size
+     •   Never create a compounding business
+     •   Make your business hard to sell (and therefore, less valuable)
+     •   Sleep poorly because you're only as good as your last month
+     •   Get poor customer feedback
+     •   Get negative word of mouth, preventing you from getting even more customers
+         in the future
+     •   Have trouble keeping employees motivated because they see customers failing and
+         falling off the back end
+     •   Lose credibility because you always have to create "new stuff' to stay alive rather
+         than benefiting from the tailwind of a good reputation
+
+
+    When we start working with a new portfolio company, the checklist you hold in your
+hands is the exact checklist we walk through and apply with them. I'm sharing it with you
+so you can profit from it. All I ask is that you apply it and if you know another business
+owner who would like it, refer a friend.
+     Just win,
+
+
+
+
+     Alex Hormozi
+
+   PS - I included a simple checklist on the next page you can tear off for your
+own reference.
+
+
+
+
+32                     Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 39 =====
+                                                    PUTTI NG IT ALL TO GETHER
+
+
+
+                                                                                                                                      .
+                   • ·•      'AN . · • . . .        ..                 ·. ·   .   .
+            •                                                  .• .
+                                                                                                                                             .
+        2hurftrs the ihvisible h' nd thatsl ppresses your growth. It's a rno n _s ter so
+                                            1             l
+
+. . . small· •·· in ·. • the .beg i n ning you · barely i noti. ce•. ·•. it, .. uriti l .· it .• · g ro¥1s .• ·· so .•. . big you .·. c an't
+                                               .                                          ·. .
+ • • .· escape· · it. There is nn magic · buUet for .c hu rn            ·                                              ·.
+                                                                           .. It's 1 00 tinyth i ngs that alt save a ·· .
+        few people each .• · And tho.s e people stack up .· .· intoimountains · of cash · over time . .
+                                                                                                                 • ••         ••
+        But, ifyou neverfik it.. you doom yo ur business to b e i n g ye t .· •
+        another j'always ma r keti ng, never gr()Wing" business.                                         • • -----.....
+
+       ·•· o u'<f l i �e\rn{ h<O lpifi
+                                      J; �g              ti • ·•·-· •·· • i • f
+      tacking profits:. •       •   • •     •
+                 ·           ··
+          ·
+       06 kiA.·.• 1 -C N- ·t• .2ALL .•· ·AT: ---=-.........-------
+                      )
+
+
+
+
+                                   Co pyrigh t © 2025 by BUM BLE I P, LLC NOT FOR DI STRIBUTION                                              33
+
+===== PDF PAGE 40 =====
+34   Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 41 =====
+              Decrease Churn: The Churn Checklist
+
+
+
+
+Action Steps Summary:
+   □ Figure Out Activation Points
+        □ Who are the top 10%-20% of your customers? This is your avatar.
+        □ What did the top 10%-20% do? This is their activation point.
+        □ Update your messaging to attract the right customers. Update your
+              onboarding to drive them to the activation point.
+   □ Onboard Your Customers
+       □ Resell the value. Say names multiple times. Tell them how to get value.
+              Tell them about unlockables. Tell them about community linking. Give
+              them homework with a seven-day deadline. Schedule the next call.
+   □ Incentivize Customer Activation
+         □ Options: course, one-on-one call, live or virtual event, a set of higher tier
+              calls, a custom badge, profile image, or some indication of status that
+                   , (( , ,,
+              they re m .
+          □ Time unlocks: put unlocks past average lifespan, then 30 days after, then
+              three months later, then six months later. Pull from the list above.
+   □ Community Linking/Events
+       □ Manually introduce members
+       □ Host group events for the members
+       □ Create a community podcast
+       □ Elevate micro-celebrities within your community
+                     Copyrigh t © 2025 by BUMBLE IP, LLC N OT FOR DISTRIBUTI ON      35
+
+===== PDF PAGE 42 =====
+                                 $ 1 00M PLAYBOOK: RETENTION
+
+
+     □ Fire or Correct Bad Customers
+           □ Incentivize good behavior (pin posts, praise in public, provide value to
+                everyone else)
+            □ Eliminate bad behavior and tell people why it was bad and what good
+                looks like (kick them out after three strikes)
+     □ Pricing: Add Annual Payment Options
+           □ Annual billing option
+           □ Try big upfront with small monthly (if it works for your business)
+     □ Cancellation CallNideo
+           □ Tell new customers you require cancellation calls
+           □ Resell them on why staying helps with their goals
+           □ Tell them what they'll lose if they cancel
+     □ Survey Customers Regularly
+           □ Make your product easy to consume
+           □ Send a survey twice a year: "If I removed everything on this list but one,
+                what would you want to keep the most?" and follow up with "If I kept
+                everything on this list but one, which would bother you the least to see
+                me remove?"
+            □ Reach out to customers to check in on them every few weeks (if the price
+                point allows it). Follow the ACA framework.
+     □ Make a Customer Journey
+         □ Implement the four milestones
+         □ Activation first, then the other three in the order that make sense
+         □ Don't forget to sell them again!
+
+
+
+
+36                    Copyright © 2025 by BUMBLE JP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 43 =====
+[No extractable text on this PDF page; consult the canonical PDF image/layout directly.]
+
+===== PDF PAGE 44 =====
+[No extractable text on this PDF page; consult the canonical PDF image/layout directly.]

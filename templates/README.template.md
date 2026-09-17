@@ -55,6 +55,12 @@ Scope decisions (made {{GENERATION_DATE}} <!-- source: generation run date -->):
 
 > The doctrine behind these rules — the lesson breakdowns and their synthesis — is not copied into this plan. It lives in the generator package as the lessons corpus (generator `lessons/`, `01..09.md` + `INDEX.md`); go there when you want the source of a rule ("why 10 creatives/week?").
 
+## Continued consultation and decision record
+
+The generator also includes the supplied Hormozi library at `knowledge/hormozi/INDEX.md`. For a question about the offer, lead quality, pricing, ads, nurture, proof, closing, retention, or customer value, retrieve the relevant source passage and cite its PDF page. Keep source rule, confirmed business evidence, recommendation, and assumption separate.
+
+This plan's `intake-record.md` holds confirmed inputs and defaults; `decision-log.md` holds confirmed decisions, owners, and validation dates. Continue the conversation with the generator after handoff rather than copying private context into shared knowledge. A proposed change stays a recommendation until its evidence and owner are confirmed.
+
 ## The one-paragraph strategy
 
 <!-- MODEL: lead-gen -->

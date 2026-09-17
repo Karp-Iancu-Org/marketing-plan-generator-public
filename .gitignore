@@ -9,3 +9,5 @@ inputs/
 .agents/
 .DS_Store
 Thumbs.db
+local-inputs/
+private-notes/

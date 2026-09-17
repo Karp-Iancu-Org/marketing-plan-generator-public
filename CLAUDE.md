@@ -12,6 +12,7 @@ This project constructs a complete, execution-ready marketing plan for **any nic
 | `INTAKE-QUESTIONNAIRE.md` | The full question set (§1–§9) with PRD-extraction hints and defaults |
 | `lessons/` | The workshop corpus: 9 session breakdowns + `INDEX.md` (the deduped rulebook) + `README.md` (how to read them) |
 | `lessons/transcripts/` | The raw workshop transcripts the breakdowns were distilled from — primary source, read when a breakdown needs verifying or expanding |
+| `knowledge/hormozi/` | 14 supplied Hormozi titles, indexed with canonical PDFs, complete page-delimited text, checksums, and citation routes |
 | `templates/` | One template per output document, with `{{PLACEHOLDER}}` sources and `<!-- MODEL: -->` variants (lead-gen / app / ecom) |
 
 ## Ground rules
@@ -23,3 +24,9 @@ This project constructs a complete, execution-ready marketing plan for **any nic
 - **The niche's project is a source to read, not a target to write.** Take the offer, price, ICP, geography and voice specs from its PRD and prompt files; disregard its tech stack, schema and roadmap. Do not create files in it, do not modify its `.gitignore`, do not touch its git config.
 - The lessons corpus stays here and is referenced, not copied.
 - Calibrate quality from each template's QA checklist and the standalone, evidence, cross-reference, and invariant checks in `GENERATOR.md`; this public framework intentionally contains no completed niche plan.
+
+## Hormozi consultation mode
+
+Users can ask a question without starting a full plan. Start with `knowledge/hormozi/INDEX.md`, retrieve only the relevant `text/<title>.txt` passage, and cite its canonical PDF page. Do not load the whole corpus automatically.
+
+When the niche is unclear, ask which niche the question concerns. For a known niche, load the ignored `niches/<slug>/marketing-plan/intake-record.md`, `decision-log.md`, and confirmed plan before answering. Keep **source rule**, **confirmed user evidence**, **recommendation**, and **assumption/gap** distinct. Save only newly confirmed facts or decisions under that niche’s ignored `intake-record.md` or `decision-log.md`; never write them into shared knowledge or the source project.

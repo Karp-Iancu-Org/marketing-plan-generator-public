@@ -1,0 +1,1243 @@
+# Extracted text: marketing-machine
+
+PDF pages declared: 32. Page markers preserve every PDF page; empty pages are marked explicitly.
+
+===== PDF PAGE 1 =====
+   A ACQUISITION.COM
+
+
+$1 00M Playbook:
+Marketing Machine
+  How to Turn Your Business
+    Into an Ads Machine
+
+
+
+
+  ALEX HORMOZI
+
+===== PDF PAGE 2 =====
+Disclaimer
+
+The information provided in this book is for educational and informational purposes only. The author,
+publisher, and licensed distributor have made reasonable efforts to ensure that the information within
+was accurate at the time of publication. The author, publisher, and licensed distributor make no
+1·ep1·esentation or warranties with respect to the merchantability, fitness for a particular purpose,
+current or continued accuracy or completeness, and reliability of the contents of this book.
+
+The strategies, tips, and tools discussed in this book are the author's personal opinions and are provided
+as-is. They are intended to provide helpful and informative material on the subjects addressed in this
+book. Success in any marketing and business endeavors is based on a wide range of factors unique to
+each individual or business.
+
+Laws are subject to change and may vary by location and jurisdiction. You, as the reader, are
+encouraged to consult with a professional where appropriate and review the current local laws before
+implementing any marketing strategies or campaigns.
+
+Earnings and income representations made by the author are aspirational statements only of your
+potential earnings. The success of the author and others referenced herein, testimonials, and other
+examples used are exceptional, non-typical results and are not intended to be and are not a guarantee
+that you or others will achieve the same results. Individual results will always vary and your results
+will depend entirely on your individual capacity, work ethic, business, skills and experience, level of
+motivation, diligence in applying the strategies discussed, the economy, the normal and unforeseen
+risks of doing business, and other factors within or beyond your control.
+
+No guarantee is made that you will achieve any result at all from the ideas in this book. The author,
+publisher, and licensed distributor disclaim any representations or warranties (express or implied),
+including, without limitation, those of merchantability, fitness for any particular purpose, current or
+continued accuracy or completeness, and reliability. Reliance on the information provided is solely at
+your own risk. As further described herein, the author, publisher, and licensed distributor shall in no
+event be held liable to you or any party for any direct, indirect, punitive, special, incidental, speculative,
+or other consequential damages arising directly or indirectly from any use and/or misuse of this book,
+which is provided "as is", and without warranties.
+
+As always, the advice of a competent legal, tax, accounting, finance, or other professional should be
+sought and obtained.
+
+Any statements that express or involve discussions with respect to predictions, goals, expectations,
+beliefs, plans, projections, objectives, assumptions or future events or performance are not statements
+of historical fact and may be "forward looking statements." Forward looking statements are based on
+expectations, estimates, and projections at the time the statements are made that involve a number
+of risks and uncertainties which could cause actual results or events to differ materially from those
+presently anticipated.
+
+Running a business involves the risk of loss as well as the possibility of profit. All businesses involve
+risk, and all business decisions remain the responsibility of the individual. The author, Bumble IP, LLC,
+Acquisition.com, LLC, and their affiliates (collectively refen·ed to herein as the "Company") have not
+made any guarantees that the strategies outlined in this book will be profitable or beneficial for you
+or your business, and the Company is not liable for any potential business losses related to these
+strategies.
+
+===== PDF PAGE 3 =====
+The Company's representatives are professionals, and their results are not typical of the average
+individual. Background, education, effort, and dedication of individuals and business owners will affect
+their overall experience. Any examples shared in this book are merely illustrative and not guarantees
+of a return on businesses or other result. Each reader's results may vary. The Company does not
+warrant the performance, effectiveness, or applicability of any sites listed or linked in this book. All links
+are for informational purposes only and are not warranted for content, accuracy, or any other implied
+or explicit purpose. All the information provided in this book pertaining to running a business and
+business strategies is educational only and not specific guarantees of success. Even though reasonable
+precaution has been taken in the preparation of this book, the Company does not assume any liability
+for errors and/or omissions. This book is published without warranty or guarantee of any kind, either
+expressed or impBed. The Company is not liable for any damages, regardless of whether arising
+directly or indirectly from the use and/or misuse of this book. Readers agree to release and hold
+harmless the Company and its members, employees, agents, representatives, affiliates, subsidiaries,
+successors, and assignees (collectively "Agents") from and against any and all claims, liabilities, losses,
+causes of actions, costs, lost profits, lost opportunities, indirect, special, incidental, consequential,
+punitive, or any other damages whatsoever and expenses (including, without limitation, court costs
+and attorney's fees) ("Losses") asserted against, resulting from, imposed upon or incurred by any of
+the Agents as a result of, or arising out of the reader's use and/or misuse of this book. This book is
+intended for informational and educational purposes only.
+
+HYPOTHETICAL PERFORMANCE RESULTS HAVE MANY INHERENT LIMITATIONS, SOME
+OF WHICH ARE DESCRIBED BELOW. NO REPRESENTATION IS BEING MADE THAT ANY
+BUSINESS WILL OR IS LIKELY TO ACHIEVE PROFITS OR LOSSES SIMILAR TO THOSE SHOWN
+OR DESCRIBED. IN FACT, THERE ARE FREQUENTLY SHARP DIFFERENCES BETWEEN
+HYPOTHETICAL PERFORMANCE RESULTS AND THE ACTUAL RESULTS SUBSEQUENTLY
+ACHIEVED BY ANY PARTICULAR BUSINESS. ONE OF THE LIMITATIONS OF HYPOTHETICAL
+PERFORMANCE RESULTS IS THAT THEY ARE GENERALLY PREPA R ED WITH THE BENEFIT
+OF HINDSIGHT. IN ADDITION, HYPOTHETICAL BUSINESS DOES NOT INVOLVE FINANCIA L
+RISK, AND NO HYPOTHETICAL BUSINESS RECORD CAN COMPLETELY ACCOUNT FOR
+THE IMPACT OF FINANCIAL AND OTHER RISK IN ACTUAL BUSINESS. FOR EXAMPLE, THE
+ABILITY TO WITHSTAN D LOSSES OR TO ADHERE TO A PARTICULAR BUSINESS STRATEGY
+IN SPITE OF BUSINESS LOSSES ARE MATERIAL POINTS WHICH CAN ALSO ADVERSELY
+AFFECT ACTUAL BUSINESS RESULTS. THERE ARE NUMEROUS OTHER FACTORS RELATED
+TO THE MARKETS IN GENERAL OR TO THE IMPLEMENTATION OF ANY SPECIFIC BUSINESS
+PROGRAM, WHICH CANNOT BE FULLY ACCOUNTED FOR IN THE PREPARATION OF
+HYPOTHETICAL PERFORMANCE. When used herein, this "book" means this book, its contents,
+and all information and ideas contained therein.
+
+Copyright© 2025 by Bumble lP, LLC and distributed via license by Acquisition.com, LLC. Reproduction
+or translation of any part of this work beyond that pe,-mitted by Section 107 or 108 of the 1976
+United States Copyright Act without the permission of the copyright owner is unlawful. Acquisition.
+com®, its logo, and $1 00M® are all registered trademarks of Bumble IP, LLC and utilized via limited
+license by Acquisition.com, LLC. All rights reserved, including rights for text and data mining and
+training of artificial technologies or similar technologies.
+
+===== PDF PAGE 4 =====
+[No extractable text on this PDF page; consult the canonical PDF image/layout directly.]
+
+===== PDF PAGE 5 =====
+                                             Table of Contents
+
+Marketing Machine ...................................................................................................................... 1
+    Wh.y This Matters ...................................................................................................................... 4
+    How The Marketing Machine Works ....................................................................................5
+    Lifecycle Ads ............................................................................................................................... 6
+    Social Media Scrape................................................................................................................... 8
+    In-Person Events ..................................................................................................................... 11
+    Communication and Communities Scrape....................................................................... 16
+    Bon·uses and Award Ads......................................................................................................... 18
+    Competitions........................................................................................................................... 20
+    Putting It All Together ........................................................................................................... 22
+    Final Thoughts......................................................................................................................... 23
+
+Marketing Machine Implementation Checklist................................................................ 25
+
+
+
+
+                                    Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION                                                      V
+
+===== PDF PAGE 6 =====
+[No extractable text on this PDF page; consult the canonical PDF image/layout directly.]
+
+===== PDF PAGE 7 =====
+                                   Marketing Machine
+
+                   How to get endless ads by doing what you're already doing
+
+
+2019. After we had tried to sell Gy m Launch.
+    "What 's wrong .?"
+    My head hung low. "They said it wasn't worth buying."
+    "The bankers?"
+
+
+    "Seriously?! Why not? We bring in millions every month."
+    "Thaes the problem," I said.
+    "Ok . . . ?"
+    "The business depends on my face to bring in that money. So if anyone would buy it,
+I would have to stay in the business. If selling means becoming an employee of the very
+business I used to own, what's the p oint? It's unsellable."
+    "So like-you being in the ads?"
+    "Yea. They say it's too risky to buy unless I stay the face." I paused. 'Tm gonna go for
+a walk to clear my head."
+    And out I went.
+
+                                                    ***
+
+     While on my walk, a friend of mine texted: "What wouldyou do to make another $5M
+p er year without doing more work?" A welcome distraction, my favorite type of question.
+And as I mulled over it, I realized she really asked how her business could still grow
+without her. Aha. The exact problem I wrestle with now! And immediately, I saw how to
+frame her question in a more useful way:
+
+
+                                     IfI got hit by a bus today . . .
+                         What would keep the business growing tomorrow?
+
+                          Copyright © 2025 by BUMBLE I P, LLC NOT FOR DISTRI BUTION       1
+
+===== PDF PAGE 8 =====
+                               $ 1 00M PLAYBOOK: MARKETING MACHINE
+
+
+    This question has a two-part answer. First, it meant listing everything, and I mean
+everything, I did in the business. Second, it meant building systems to do those things
+without me.
+First, all the stuffI did:
+
+    •    Organic advertising - posting on all platforms
+    •    Paid advertising strategy
+    •    Paid advertising creative and copy
+    •    Making advertising funnels
+    •    Sales calls
+    •    Onboarding calls
+    •    Support calls
+    •    Upsell calls
+    •    Coaching calls
+    •    Maintain online communities
+    •    In-person events
+    I didn't stress much about the bottom half of this list, I knew we could hire and train
+for that. It was the top part of the list I struggled with. The advertising stuff. I had to get
+out of the ads. But, how on earth could I find another me?
+
+
+Second, the systems to do all that stuff
+
+    After pacing around for a few days I finally came up with . . . nothing. In fact, less than
+nothing, I was further away than when I started. Adding insult to injury, I had to put all
+this problem-solving aside because I still had responsibilities in the business.
+   We had an in-person event where I had to give awards to the high-achieving gym
+owners. The event went well even though I had this list in the back of my mind the whole
+time. I looked for any opportunity to get away to spend a few more minutes on this
+problem. And just as I thought I had fulfilled my duties for this event Leila asked . . .
+    "You ready for dinner?"
+    "What dinner?"
+
+2                        Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 9 =====
+                                          MARKET I N G MACHINE
+
+
+    "You know, the awards dinner for all the high-achieving Gym Lords? It was your
+idea."
+
+     Crap. Iforgot about that. "I'll be down in a few minutes."
+    I was really itching to be done with all this. I needed to eliminate myself as the
+bottleneck to this sale. As soon as we arrived, I began to relax. Enterin g a room with a
+bunch of smiling faces calmed me a bit. And as the night went on, they shared stories
+about their experiences with Gym Launch. One talked about their first sales call. Another
+about a big advertising breakthrou gh. And yet another about breaking revenue records by
+cracking his premium product offer. Then it hit me like a truck.
+
+                          7he bottom of the listfeeds the top ofthe list.
+
+    Then, everything, the whole plan, came rushin g to me all at once . . .
+    I could cut up sales, onboardin g, and upsell calls to create a "life j ourney of a customer."
+I could record testimonials at our events both large and small. I could ask people to make
+a video for us once they got it. I could also give p rizes to people who made us ad-quali ty
+videos.
+
+     More ideas swirled around my head. I didn't have all the answers, but, I thought . . .
+this might work.
+
+
+A few weeks later. . .
+                                                                       n
+    "The ads from the new campaign are CRUSHING! my director of marketing sent
+to me.
+
+    "The member-generated ones?"
+
+    "Yea. They're outperformin g even your best direct-to-camera ones."
+
+    ''No sh*t."
+
+    "Yea. And the great thing is we're getting new ones coming in every day."
+
+   I was giddy. This idea, which became a proj ect I later called ''GL Marketing Machine,"
+had proof of concept. We were gettin g : More ads. Better ads. And without using my face.
+And without doing anything we weren't already doing. This actually works.
+
+
+
+12 months later . . . a second meeting with the bankers.
+
+                         Copyright © 2025 by B U M BLE I P, LLC NOT FOR DISTRI BUTION           3
+
+===== PDF PAGE 10 =====
+                            $ ! DOM PLAYBOOK MARKETING MACHINE
+
+
+   "This business is still risky. You're a keyman here. If you leave, the business will shrink.
+Your face is too close to the brand."
+    "True, people still see the business as mine, but it isn't how we acquire
+customers anymore.
+                  "
+    "What do you mean?"
+
+    "Take a look at our media. I haven't been in any of it for the past twelve months." I
+pulled up our ad account on my laptop and turned the screen towards the private equity
+fund manager. He squinted his eyes to look at the screen. "See?" . . .I pulled up all the top
+ads and sorted them by sales generated. "I can keep scrolling. Everything we use is from
+our customers. We have a whole system. Internally, we call it the GL Marketing Machine.
+There are way more customers than there are of us. So we figured, why not use them in
+the ads??"
+
+    "Clever. Okay, that's good to know."
+
+                                                 ***
+
+   Months later, we closed the deal for $46.2M. And all because we figured out a way to
+harness the collective energy of our customer base.
+
+    The good news: any business can do this because it relies on stuff most businesses
+already do or can start right away. So what I'm about to share with you is one of my most
+prized possessions. Today, I build out a "(Company Name) Marketing Machine" checklist
+for almost every company I invest in. As an investor, if a business depends on the founder
+then you have a risky investment. If it doesn't, then you have a less risky investment.
+What if they get extremely ill? Or lose their passion, or have marital issues, or make
+enough money and just want to stop? (All happened, by the way). This one system creates
+huge enterprise value in any business with a single process checklist anyone can use.
+
+
+
+Why This Matters
+
+    First, a company that relies on your face will always be less valuable than one that
+doesn't. Second, not having to dance on camera full-time to get customers makes your
+business feel a lot more like a business than a glorified arrow spinner. Third, once you put
+the Marketing Machine in place, your ads will likely do better because it's never really
+been about you . . . it's about them. They are the star of the story. So- put them in the
+spotlight, not you.
+
+
+4                      Copyright © 2025 by BU1v1BLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 11 =====
+                                      MARKETI N G MACHINE
+
+
+
+
+                      Me in costume spinning the gym launch arrow
+
+
+
+    Fun fact, when I reviewed the thousands of ads we made at Gym Launch years later,
+40 out of the 5 0 top performers didn't have my face in them. Yes, 80% of them weren't
+me. They were our customers. I share this with you so you don't waste years making your
+business less valuable, dancing on camera, only to make ads that work not as well as just
+getting your customers to sing your praises.
+   This Marketing Machine gets fresh ads delivered to your inbox every week from
+your customers.
+
+
+
+How The Marketing Machine Works
+
+    Think of the machine as a checklist. Where every item you check off the list represents
+a reliable stream of videos, images, and words you can use to advertise your business. You
+can use them in paid ads, content, or outreach as collateral. You can use them in your
+sales pitches, webinars, and video sales letters. Anywhere you need to sell stuff, you can
+plug in stuff from the machine.
+    There are many nodes you can turn on once you put the system in place. Check off
+the ones that apply to you and feel free to add your own. For example, the marketing
+machine for my gyms selling weight loss would be different from the marketing machine
+I use for Gym Launch selling gym owners. rll include the ones I use most frequently and
+add in some that would be for in-person businesses. The list is as follows:
+
+                      Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION            5
+
+===== PDF PAGE 12 =====
+                             $ 1 00M PLAYBOOK: MARKETI N G MACHINE
+
+
+        □ Lifecyde
+        □ Social Media
+        □ Events
+        □ Communication, Communities, and Review Site Scrape
+        □ Bonuses, Milestones, and Awards
+        □ Competition
+        □ Delivery
+    I thought I'd give you the actual checldists you can hand off to your team so you
+can actually implement the machine within your business. If you consider the fact that
+without this process, I would not have been able to sell my companies . . . ies worth . . . a
+helluva lot. This breakthrough in thinkin g about my business like a machine that was
+already printing testimonials rather than me having to "generate" them gave me so much
+leverage over my business and got my entire team even more laser-focused on the thing
+that matters most: getting customers results and capturin g them. Lees dive in.
+
+
+
+
+    Author Note: One > None
+
+    Do n't get ove rwh e l med . Thi n k of this as the systems put together i n a $1 00M+
+    busi ness. If you're starting out, one or two of these processes can com p letely
+    c hange you r life and marketi ng. So, read them all. Start with the one you think
+    works best for yo u r busi ness and is easiest for you to implement. Th en come
+    bac k, and ad d anoth e r, an d so on. You wo n't make less mo ney by captu ring
+    more proof that you're good .
+
+
+
+
+Lifecycle Ads
+
+    These ads harness the *moments* that occur in normal conversations in your business.
+Since GL is a remote company, all client interactions occur over tech platforms. So we
+recorded all calls, and by doin g so, have a massive gallery of "content to pull moments
+from. We pulled "before" moments from sales calls. We p ulled '(durin g" moments from
+support calls. And "after" moments from ascension and award calls. This allowed us to
+
+6                      Cop)'righ t © 2025 by BUMBLE I P, LLC N OT FOR DISTRI B UTION
+
+===== PDF PAGE 13 =====
+                                                             MARKETING MACHINE
+
+
+show rather than tell a client's entire journey through time with us. So rather than recall
+their hard times, you can actually see the person at their hard time and at their victorious
+after moment. Super powerful.
+
+
+          ..                                 :
+   :.     ·· · '
+                                                                 •
+                                    ·:              .:               •       • .    .
+
+
+
+  •. Local Businesses: "Updn DelivJry'' Ads
+  • . This� fcls §rily *()r1,jf }'<Ou·. have ·•sorn � • sC>rt o.f Physidtl 1.�li.v�ry. • Thfrk· of these
+                                                                                                                                     l
+                                                                                                                                                          .
+      l i l<e .· a.. ''ribb o. n .•·· ·cu tti ng''·•·•· ceren, ony. .•.. The·• ·• perso·n • ·nas··• ·th e ir•.·.•eye s · ·c10s e d•··· th .e n· • • s e es .•
+                                         .                     .                         .                                            .                     ·
+      their . kitche n · for the . first tim e, .or\hc)ps on •. the · s c le after · Xidays,i sees · · th e i r ·. •
+                  .             .                                .                                   a
+      teet h . after..· gett.ing· yeneers, .· or·• fo t· • · recru· iti. n g firm·• · "YOU ... got•. •the job!.'' •• . reactions . •
+                             .              .·    •                                            ·
+   • Many · busin e sses h· ave • these .. big .1 mo rnents}b.ut· people · fai l .•. to •· · c apture• .. them.
+      You •. .. wanti tho e ·•·. raw re acti on • • -rho. sei b e.co e ·.•. the . ..• hook ·. · (first                            3-S      ·sec) . · . of
+                .          .           s                           s       .             m                           ·
+      t he ad. Then, ou can m ake ads df eac� Qne, and highl ight reels of o n ly the • . •
+                                      y                              •       • • •• •                                      ••                      •
+      reactions (these crush). ·
+
+
+
+   Note: All our clients consent to using recordings of them for compliance, training,
+and advertising p urposes. And even though they sign a document, we still ask if they feel
+OK with using their story in advertisements. If they say no, we honor their wishes. Plenty
+more successful clients feel ecstatic to share their stories with the world. So here's the
+checklist to get this installed in your business:
+
+           D Legal: Add com pliance and permission language to all customer contracts.
+
+           □ IT: Record all calls-sales, onboarding, support, ascension, milestone calls
+                   (when clients get good results) .
+
+           □ IT: Buy extra storage space so calls don't get deleted. Turn off auto-delete.
+           □ All departments: Create calendar events for all calls and include the client's
+                   name in the title.
+
+           □ Sales: Send the happy-customer-calls to marketing each week.
+           □ Marketing: Search your system for all calendar events with that p erson's name
+                   on them. Cross reference calendar events for calls to make sure the names and
+                   dates match.
+           □ Marketing:
+                □ Clip the before moment from the initial sales calls,
+                                         Copyright © 202 5 by B U M BLE IP, LLC N OT FOR DISTRI BUTION                                                          7
+
+===== PDF PAGE 14 =====
+                            $ L OOM PLAYBOOI<: MARKETI N G MACHINE
+
+
+                □ a during moment from one or two support calls, and
+                □ the after moment from an upsell, milestone, or testimonial call.
+        □ Marketing: Create a friendly labeling system for these clips so you can grab
+            them at any time and at a moment's notice.
+
+        □ Marketing : Run 'em and print money.
+     These are among the most organic videos you can capture. And the best part is, you're
+already doing it to some degree. You j ust need a system to weaponize it. This is mine. And
+if you're curious what one of these ads looks like, here's an exam ple:
+
+    •   https://www.facebook.com/HormoziAlex/videos/1 0922248 1 1 3 0042 1 /
+
+
+
+
+                                             SCAN M E
+
+
+Social Media Scrape
+
+    For years, I hated doing photoshoots and recording. And years later, I still hate
+photoshoots (I'm a little better with recording now) . But, when I hated both, here's what
+I did.
+
+        □ Marketing: Have a saying or a hashtag for your communi ty/customers to post
+            on social media. Definitely have a profile they can at least tag you in.
+
+                □ Gym Launch Example: #gymlord #gymlaunch #gymowner
+                □ Prestige Labs Examp le: #poweredbyp restige
+                □ Me: #neverskipdessert #acquisition # 1 00moffers # 1 00mleads (and of
+                    course anyone who simply tags my profile)
+        □ Marketing : Set regular reminders to grab tagged media across all platforms.
+           Especially things like Instagram/Snapchat/Facebook stories, which disappear
+           within 24 hours.
+                □ Like the call storage, make sure you tag/save what you find with
+                    relevant facts and create searchable names.
+
+
+
+8                     Copyrigh t © 2025 by BUM BLE IP, LLC N OT FOR DISTRI BUTION
+
+===== PDF PAGE 15 =====
+                                                               MARKETING MACH I N E
+
+
+    □ Marketing : Separate studs from the duds. Create a separate folder for media
+        that out-performed the typical posts you make or scrape. Note: Good organic
+        p erformance correlates highly with good ad and outbound p erformance.
+    □ Marketing : Use the best-p erforming images and videos as creative with
+        already-p erforming ad copy. Yes, including stuff you posted.
+
+Here are three that my team pulledfrom social media of me that did great as ads. . .
+    Many of these were absolute bangers.
+
+
+
+
+         � Alex Hormozl
+         'fffflJ
+           Apr�l 27, 2 O� 1 - 0                                                                       ,It;\ Ale-. Hormozi
+         Gym Ownr.ns - {this message i s gma approved)                                                � ,"\ p n1 2i, 'W1l , 0
+         Bekha never saw this comin'...                                                               G�m Owrum• - {this messaga is gma a_pprovod)
+                                                                                                      Bckha nover �aw this c-omin'...
+         A gym owner...
+         Who actuatly owned 6 gyms...                                                                 A gym ovmcr...
+         Docs a better fob showing other gym owners how to make lhefr                                 Wt,o ac:luatfyown1id 6 gyms....
+                                                                                                      Doi!i:. a be Iler job showing o�hqr gym owners how to m1iko their
+         gyms make money ...
+                                                                                                      gvms make mor1-1ly.,.
+         Than markotors, agand-es, mamma's basement gurus. , ,
+                                                                                                      Them marketers, agerlc:ia�, momma's b.as.omer-t gurus .. ,
+         ...who NEVER 01•m.ed a succ�ssful gym (tet akiM 6- ).... S e e more                          ...who Nt.VfRowned a succ-1;s;;,lu! gym llet akaH:l -6J, ... See more
+
+
+
+
+                                                  • AleK Hormozi
+                                                  .. /;pul 27, 20.d - 1.;i
+                                                  Gym Owncers - Smile Uko You Mean H t• .;:.:, t'i
+                                                  bectn.tsa you 1;an g-et sub $2 !cads ... WITHOUT spending a dime on
+                                                  od,
+
+                                                  Our process is s.o Mfoctive th.at ils pulling ad ag€f\de-s out of
+                                                  bu'5incss.... which is why lhcy aren't smHing l i ke this anymore -�;; �;. "
+                                                  li'J_ htlps.://nvni!,itmc:h;,ec-rels..coni/starlffc&
+
+                                                  Coal. Here's rny 3-senlel\ce p"1 kh:
+                                                  1) ou, pro- w arn helps Gym Ownl.i'rs make an averngEi- c f $1:5,5 17 in
+                                                  lhefr first 2 weeks ... and ils NOT through rmming .:.ds (Wha??)
+                                                  ?i   w. SAA mnrA
+
+
+                               Copyrigh t © 2 0 25 by BUMBLE                        m LLC N OT FOR DISTRI BUTION                                                              9
+
+===== PDF PAGE 16 =====
+                                                        $ 1 00M PLAYB O O K: MARKETING MACH I N E
+
+
+     Here arefour that my team p ulledfrom social media ofme that did great as ads . . .
+
+
+
+
+                                                                                          • Alex Hormozl
+                                                                                            .       i\j)l11 2 l , :lUn • ti:_l
+       dll;1 Atex Hormoil                                                                 Dear Gym Own-of �
+       � ,.p 1 1 [ 27, 2071 · \.1                                                         Myslery � Why would any seu.,e::;pecling gym 0wnm pack
+        Gym Owmirs. moal Nicole.                                                          lhemselvea li11:a -smdine5: to get i.n a pi-ctvre, lo weaf a fake
+        Ntco!e, meel gym owners.                                                          mustach&?
+        Nfi:oto ls wha, we call a BAMF. 0 () 6 (j
+                                                                                          Becau,se lhay beUeve a-::; we believe:
+       She owns Elevate St Po-t�.                                                         .. .that you should be ablo 1 0 mi.k-e it rain ror yoUJs-alf
+       Sh� was. .already prolilabl-e b�fore workjng with us.                              ...1hat yaur skill growlh will be the c-ap of yo-ff b-ustness growth
+       Shtt w.as nol sln.i:g,gling,                                                       .. .that wOJfd--c!ass servicq trumps "tricks '" any day
+       Sha lmd a good c.ul1ura and go-ix! leam.                                           . , ,th3t IIH!'te is nothing sexy in busimi-ss, and th.al consjsten.Uy boring
+       And ... see more
+
+
+
+
+       41&1, Alex Hormozl
+       \:9 ,\pi il 21, 20:i!l · '-.:.,
+       Mitrogym Owners :!!!l!;i $2 Million Dofl.ar Smilo ,i � -�=�-Everyone wa.nl!
+       a smile like Jenl"life:r's.. Why?
+       Because Jennifer & Vi:nay grew 1helr TWO locations to ove1 $1M/yf
+                                                                                     • Alex Hormozi
+       {EACH�. Whal 1s e1Jen cooler is that they were dQing onlv 1/3 or thal
+                                                                                                t,prit 26, 202 1 • (l
+       revenue before thev saw a -cra;i:y ad on lhe in1-e,nel {like lh-is one).
+                                                                                     Gym Owner - Mike Ferreira went horn $99/mo lo $425/mo
+       Would you !i'ke to have access lo the e:iact s�mo syslems and                 . . .offering the SAME large group kickboxing workouts •• before
+       informa1ion ihat Jennifor & Vi nay did?
+                                                                                       :. • https://9y1nlaun-chsecr<ds.c::01n/starUrc-e
+       Would yo-u like to !!leo how Lhe-y odpplied them to scale their gyms
+       fas\?                                                                         When was the 1••1 time you were able lo pick up and drop otf your
+                                                                                     kids?
+       Would you like... See more
+                                                                                     Most gym owners are working in I heir gym 10- 12 hours/day (if no!
+                                                                                     more) and sac1ilice EVERYTHING .
+
+                                                                                     . . . see more
+
+
+
+
+10                                         Co pyrigh t © 2025 by BUMBLE IP, LLC NOT FOR D ISTR I B UTION
+
+===== PDF PAGE 17 =====
+                                         MARKETI NG MAC H I N E
+
+
+In-Person Events
+
+     If you're an in-person business you have an insane advantage over virtual or remote
+businesses. Every day is an in-person event. But if you are virtual, then you need to be
+strategic about capturing moments from events. And by the way, if you're not already
+doing events at least once or twice per year . . . I suggest doing them. They give you great
+marketing assets. I didn't even sell anything at Gym Launch events. I j ust provided value.
+But, I did document as much of each event as I could so that I could use that media in my
+advertisements. Since the events cost a fortune, and I didn't sell anything, that media was
+the only way I could get returns! So I had to get pretty good at s q ueezing every last drop
+of marketin g power from every event.
+
+     There are three types of ads that I like to cap ture from events: stage ads, p rofessional
+testimonials, and man in the street. Let's cover each.
+
+    Stage ads. These are ads you record on stage. Here's what they look like:
+
+
+
+
+                       Copyrigh t © 2 0 2 5 br BUM BLE I P, LLC NOT F O R D ISTRIBUTION     11
+
+===== PDF PAGE 18 =====
+                            $ ! 00M PLAYBOOK: MARKETING lvlACH I N E
+
+
+
+
+        □ Get a picture while you are on stage with peo ple celebrating behind you. It's
+            great visual p roof of the size and scope of your event. These ads and short cli ps
+            do very very well.
+        □ Get multi p le selfie images yourself and a video if you can swing it. You only
+            get one take, so make it count!
+        □ Do this at the end of day one or before lunch on d ay two.
+    Professional testimonials. You grab people durin g your event and take them to a
+side room to record a testimonial. Here's a video of one:
+
+     https://www.facebook.com/H ormoziAlex/vi deos/1 9879 1 304 1 456303/
+
+
+
+
+                                             SCA.NJ IVI E
+
+
+
+
+12                     Copyrigh t © 2025 by BUM BLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 19 =====
+                              MARKETING MAC H I N E
+
+
+                             Here's the look andfeel:
+
+
+
+
+D In the ideal situation, you reserve two separate rooms at the event. A room
+  for the event itself, and a small room close by for recording. If that's not
+  possible , get two or three extra hotel rooms so you can set up for and capture
+  testimonials during the entire event.
+D Hire at least one extra camera team (sometimes two ) . One records the event
+  itsel£ The other collects your testimonials. Testimonials being more important.
+  So put the better team on those. You'll want at least two men on cameras and
+  one runner to bring the clients to and from the testimonial area.
+
+D Set up the li ghting and sound so it looks good. Have multiple mies and
+  cameras. Trust me. Then TEST. TEST. TEST. The worst thing that happens
+  is you lose audio or video from every testimonial for an entire event. You will
+  want to kill everyone. Ahem.
+D Pick out the customers you want testimonials from ahead of time. Confirm
+  in writing.
+
+        D Let them know that it won't be during any big keynote and that you'll
+          give them the notes for the few minutes they miss. Most won't mind.
+D Print out a hit list. Put it on a clipboard. Check the names off as they come in
+  until you've gotten everyone.
+
+□ Announce at the beginning of the event that your team will be doing this.
+   Introduce the handler to everyone so when they get a tap on the shoulder
+   during the event they'll know exactly what to do.
+
+
+
+              Co p>•right © 2025 by BUMBLE I P, LLC NOT FOR D ISTRIBUTION      13
+
+===== PDF PAGE 20 =====
+                                 $ 1 00M PLAYBO O K: MARKETING MACHINE
+
+
+                  □ Give people an incentive to leave you a testimonial. Give the customers
+                        a bonus for leaving one. Give the handler an extra $ 5 0 for every other
+                        person he captures not on the list. For example, when he's going up to
+                        people on the list, he can usually grab people off the list too.
+      □ Plan when you'll pull people back for recordings. Avoid doing it during big
+            keynotes. If someone pushes back, then put them on a separate list to grab
+            during: morning, lunches, breaks, and end of day.
+
+      □ Walk them through the same 6-p oint script:
+
+
+     0
+     ES) 0
+
+
+
+
+     Ex,E�NAL..
+     #s , 'i-T ATS,                                                                   @ Ex,E�NAL..
+     064:)E'J:: V A BLE S                                                               #s 1 'i-T A1"S,
+                                                                                        O g'!)E'J! V A SLE 5
+
+
+
+
+          I ) (Internal struggle) What was rock bottom before doing this? What did
+              you have to do that you hated? What things did you want to do that you
+              couldn't?
+          2) (External Stru ggle) What were your objective metrics?
+
+          3) (Skepticism) What were your main concerns about buyin g/clicking/
+             joining?
+
+         4 ) (Overcome) What made you do it anyways?
+
+          5) (External victory) What are your objective metrics now?
+         6) (Internal victory) What's been the best moment since? What can you do
+            now you couldn't do before? What things did you hate doing you don\
+            have to do anymore?
+
+
+14                          Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 21 =====
+                                        MARKETING MACH INE
+
+
+        □ The most important part of the testimonial is the hook. Be explicit. You can
+            have them say a few different hooks to see what works better before they get
+            into their story.
+        □ Have them say their name at the be ginning of the video. Your camera team
+            often has no idea so this helps match names to videos later.
+        □ Save 'em. Upload 'em. Add music. And run 'em.
+    Man in the street. You go up to people during the breaks and ask for quick soundbites.
+Think of these as one-question interviews that provide lots of proof around a key metric
+or concept.
+
+□ If you do man in the street in addition to the pro testimonials, hire a second two-man
+    camera team for these.
+
+□ Prepare the 1 0 core questions you want many answers to ahead of time. You'll want
+   to get 1 O+ responses for each of them. Don't worry. These take seconds to capture.
+   You turn them into fast-hitting highlight reels of everyone saying a specific outcome
+   related to one question.
+
+        □ Examples:
+             □ How many new customers have you gained since you started?
+             □ What were you making before X vs now?
+             □ How much extra income has X added?
+             □ How much weight have you lost since you started here?
+             □ How much has your credit score improved?
+             □ What was your old credit score and what is it now? From what to
+                    what?
+
+        □ You can also ask the six core questions from the interview script, but piecemeal
+           them one at a time. Then you can make a mondo testimonial that has the
+           fast-hitting answers for each point from 5+ people. It makes it even more
+           compelling.
+
+                □ What was your rock bottom moment?
+                □ What was your business doing in revenue and profit then?
+                D Etc . . .
+
+
+                       Copyrigh t © 2025 by BUM BLE IP, LLC NOT FO R D I STRIBUTION    IS
+
+===== PDF PAGE 22 =====
+                            $ I 00M PLAYBOOK: MARKETING MACHINE
+
+
+                □ If you do the six-point script. Ask all six questions to each person
+                    but in a rapid fire manner. These interviews can take less than two
+                    minutes. But you can hit all six questions and weave the same
+                    characters through the testimonial reel.
+     □ Print out the questions for the camera team.
+               □ Put a space below each question to tally up the number of responses
+                    they get.
+                □ Ask only that question until you get the number of answers you want.
+
+You can see an example of a compilation in the video about lmin 20sec into the video:
+                        https://www.gymlaunch.com/secrets
+
+
+    So yea . . . there are a lot of ways you can use events to capture testimonials. For the
+love of your business, use them. And use these checklists.
+
+
+
+Communication and Communities Scrape
+
+    This is straightforward. You communicate with your cusromers every day (right? . . .
+right?) . If not you, then your account reps, support, etc. This process weaponizes all those
+great little moments during those interactions, then bundles them into a dynamite stick
+of proof. There are three places I scrape:
+     •   Support/Account Rep Chats
+     •   Posts and comments in communities we manage
+     •   Reviews and comments scrape
+
+   Support/Account Rep Chats. Here you screenshot the juicy messages customers
+send whenever things go well or they get some great result. Here's an example ofwhat this
+looks like:
+     Here's how you systematize it:
+         □ Create a list of all key terms people say in messages that indicate a win.
+              □ Our list: PIF, sales, $, profit, revenue, monthly, close, closed, leads,
+                    show, scheduled, win.
+
+
+16                     Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 23 =====
+                                       MARKETING MACH I N E
+
+
+      □ Add a folder that you give all your support reps access to.
+      □ Set a reminder, or add to your team's checklist to search all key terms in their
+          messages.
+      □ Sort by date and screenshot the new ones.
+      □ Add them to the folder.
+            □ O ptionally, add subfolders for specific types: sales, marketing, p rofit,
+                    specific programs or tiers of service, etc.
+
+      □ Set a reminder for managers to note who turned in screenshots and give them
+                                                                                      )
+          kudos. And if you're the manager, then that's you. If you don t reward them
+          for doing it, they won't do it.
+      □ Optional· Anyone who gets a winning ad from their screenshot gets a $ 1 00
+         gift card every week.
+
+
+
+   Community Wins/Posts. These are comments and posts made in whatever
+community you manage for customers.
+
+      □ Create a post category called "wins." Ifyour community p laiform can't do this,
+         skip it.
+      □ Create a community wins folder.
+            □ Optional sub folders by tier, program, service level, etc.
+      □ Every Friday encourage customers to comment/post with their "wins of the
+         week."
+
+      □ Set a reminder to make the win of the week post and add it to the weekly
+         end-of-week checklist/report to the community manager.
+
+      □ Monday: start-of-week checklist, screenshot the wins that came in over the
+         weekend.
+
+      □ Search for the same key terms the support team does but inside the group.
+         Sort by newest.
+
+      □ Screenshot the best ones.
+      □ Add them to the respective folders.
+
+                      Copyrigh t © 2025 by BUMBLE I P, LLC NOT FOR D I STRI BUTI ON       17
+
+===== PDF PAGE 24 =====
+                            $ 1 00M PLAYBOOK: MARKETING MACHINE
+
+
+        □ BONUS: Screen record scrolling through the comments/wins of the
+            community for the week (or over multiple weeks). This gives you yet another
+            ad to run. Like this:
+                □ https://www.facebook.com/HormoziAlex/videos/206925 74599885 27/
+
+
+
+                                             SCAN! ME
+
+    Scraping Reviews and Comments. This works the exact same way as the above two,
+we just change the source.
+
+        □ Create a list of all the sites you have reviews on.
+              □ Glassdoor, Yelp, Google, Facebook, Trustpilot, Amazon, etc.
+        □ Create a folder for review site testimonials.
+        □ Set a calendar reminder to go to each site and sort by newest.
+        □ Screenshot the good ones.
+        D Add to folder.
+        □ Set a reminder for the manager to check them and reward the person for
+            doing it (or they won't) .
+
+      By the way . . . adding stuff to folders isn't gonna get you more customers. You need to
+use all that stuff in your advertisements! At the end of this Marketing Machine document,
+I'll show you how we do it. But, next up, we have Bonuses and Awards.
+
+
+
+Bonuses and Award Ads
+    These are my favorite types of Marketing Machine ads. I mean, they're all my favorites
+because they've all made me money. But, I like this one most because of how silly I felt
+when I realized I could make them. After an award ceremony a good friend of mine
+said, "dude, you just give them stuff and then leave, how does that help them or you?"
+I remember thinking "duh - instead of just giving awards out, I should ask people to
+submit testimonials to get the award." And there you have it, that's exactly what we have
+people do.
+
+18                     Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 25 =====
+                                        MARKETING MACHINE
+
+
+     There are two mini processes for this: bonus unlocks and four types of award
+testimonials. Let's rock.
+
+    Bonus Unlocks. Create some giveaway that you charge separately for. It could be a
+training, a tiny project, one-time access, or a status tier. Anything you can think 0£ But
+you want it to be big and sexy. For us, sales scripts or ad training for different platforms
+does the trick. Make the sexy thing. Attach a price to it. Make it for sale.
+        □ Sell peop le on how great it is. Then tell people they can buy it - or - if they
+            make a testimonial video, they can unlock it for free. Put the recording of you
+            pitching it somewhere all customers see.
+        □ Tell them what to do to unlock it like this:
+              □ Send a video under five minutes that hits these six points to this email:
+                     proof@yourco.com
+                 □ Use this video as a reference/example (put your best one)
+                 □ Post the video in the group with your stats associated (this way you
+                     automatically get a second testimonial in written format from it)
+                 □ Tag the community manager in your post.
+        □ Include other keywords to make them easy to scrape later.
+    Award Testimonials. These are insanely good. If you don't already have an aspirational
+goal for your customers . . . uh . . . make one. For gym owners, it was hitting a $ 1 M per year
+gym. For your customers, it may be a bikini p icture, or a photoshoot of their remodeled
+kitchen. It doesnt matter. People like to get recognized in meaningful ways for their
+meaningful results. So, create an award. Associate it with status. Bestow it on people in
+exchange for testimonials. If you do it ri ght, you can get FO UR forms of proof from one
+award per person. Here's how it works.
+
+        □ Make a video announcing the new award. Make the trophy, trinket, model,
+            etc. something tied to your community. Also, make it big and cool. Spend
+            some money on it. It will make you more back. Promise. People have to crave
+            this thing. Aka-don't do a boring thing.
+
+                 □ At Gym Launch, we did a sword and shield for our Gym Lords
+                     community. Swords are common in the fitness world as trophies for
+                     bodybuilding shows. So people associate them with prestige - and -
+                     our community was called Gym Lords.
+
+
+
+                        Copyright © 2025 by BUMBLE IP, LLC NOT FOR D I STRIB UTION           19
+
+===== PDF PAGE 26 =====
+                           $ I 00M PLAYBOOK, MARKETING MACHINE
+
+
+        □ Put the video that tells them what they get if they achieve this milestone-the
+            award and public recognition at your next event.
+
+        □ In order to redeem it, they need to make you two kinds of proof:
+              □ Make a post showing the actual number of sales they hit in the group
+                    using the template you use for testimonials (PROOF 1 ) .
+                □ Tag the communiry owner.
+                □ Send email with video ro proof@yourco.com (PROOF 2).
+        □ Then, ask them to record a video of them unboxing it (PROOF 3).
+        □ Then, record them in person or on stage when you present them with one in
+            front of the communiry (PROOF 4) .
+
+                □ That means you have a personalized/engraved one you mail, and a
+                    generic one you present to people on stage.
+
+
+
+
+Competitions
+
+     God this is good. But people tire of them, so you can't do them very often, like
+once or twice a year max. Here's how it works. You run a raw iPhone-sryle testimonial
+competition. People compete for the best one. And we measure the best by . . . drum
+roll. . . its performance as an ad. The one with the most conversions over 30 days wins. So
+here's what you need to do to make this work:
+        □ Set an announcement date and a deadline for submission
+        □ Figure out a crazy award for the person who wins
+              □ Ex: six months of free service/product
+20                    Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 27 =====
+                              MARKETING MACHINE
+
+
+□ Give them instructions on how to submit it
+     □ "Fill in this results template'' (you can come up with your own)
+
+
+               8 Alex H ormozi posting in The Skool Games
+               Results !
+
+               Start stats:
+               Monthly Members: XXX
+               Monthly Revenue: XXX
+               Monthly Profit: XXX
+               Weekly Work H ours: XX
+               Moment of change: YY't1
+
+
+               Now Stats:
+               Monthly Members: XXX
+               Monthly Revenue: XXX
+               Monthly Profit: XXX
+               Weekly Work H ours: XX
+               Best Personal Moment: YYY
+
+
+
+
+       □ Tell them to attach their video, tag the community manager, and
+           email the raw file to p roof@yourco.com.
+
+       □ Give them last time's winner (or your best one to date) .
+       □ Attach the six-p oint testimonial script.
+□ Announce the competition via all internal channels (email, group messages,
+   co mm unity posts) .
+
+□ Countdown to the date.
+□ Make personal invitations and do regular follow up with the top 50 or so
+   peo p le you want testimonials from.
+       D I found asking them to do it in the moment gets great results. (Like
+         right now, it takes five minutes-just take out your phone so you
+         don't have to think about it later) . The raw-er the better.
+
+D Cut off the competition submissions.
+
+D Format them as ads then run them.
+
+
+              Copy righ t © 202 5 by BUMBLE IP, LLC NOT FOR DISTRIBUTION   21
+
+===== PDF PAGE 28 =====
+                             $ 1 00M PLAYBOOK MARKETING MACHINE
+
+
+         □ Set a calendar reminder 30 days in the future to remind you to count which
+             ads did best and who the winner is.
+         □ Announce the award publicly.
+
+Putting It All Together
+     Customer-generated ads will give you more creative and copy than you'll know what
+to do with. And that means you have a very good chance of finding grand slam ads. And
+that means you'll have more customers than before. We want that. So let me give you the
+1 0,000ft view.
+
+     Every week you should have this proof-based marketing machine content:
+
+□ A list of names of people who got great results.
+□ Scraped social media from you, tags, and customers, both images and videos.
+□ Chat/messaging screenshots from your account reps.
+□ Community post and comments testimonials (screenshots, videos, comments section
+     screen recordings) .
+
+□ All new five-star reviews on external sites pushing into your business (screenshots +
+     scroll recordings) for even more ads.
+
+□ Bonus unlocks (post screenshots + videos to inbox) .
+D Award deliveries and other customer recognition stuff (screenshots, emailed raw tes­
+  timonials).
+□ Customer reaction videos (unboxing, first-time user, long-time user, customer demon­
+     strations etc.) For. Even. More Ads.
+
+
+
+   So to make sure that you use these, you make your marketing team's start-of-week
+checklist to check all the above.
+
+
+
+     Now, every six months, you'll get an influx from events and competitions. So run the
+testimonial competitions between your other events. So if you run one competition per
+year, and run two events per year, you'll get a big flow from them every 1 2 weeks. For
+some, this is all the ad content they'll ever need.
+
+22                      Copyright © 2025 by BUMBLE IP, LLC NOT FOR DISTRIBUTION
+
+===== PDF PAGE 29 =====
+                                       MARKETING MACHI N E
+
+
+Final Thoughts
+
+     If this looks like work, that's because it is. But, the alternative is being a camera slave
+with an unsellable business that makes less money than you'd prefer. So, uh, I guess there's
+that. Plus, I can tell you firsthand, prospective customers want to see the results of real
+customers anyways. So show them. The Marketing Machine is one of my most prized
+processes. I even texted Leila to see if she thought I should even give this away. But, in
+typ ical Leila fashion, she reminded me that we've never made less by giving more.
+    If I were starting out, I would implement them in this order:
+        □ Competition
+        □ Chat/messaging scrape
+        □ Community scrape
+        □ Reviews scrape
+        □ Social media scrape
+        □ Bonus unlocks
+        □ Award unlocks
+        □ Events
+        □ Lifecycle
+    Main reason: The first one gives you a big influx. The next four, you already have this
+stuff and it takes minimal editing. Bonuses and awards require you to make something
+to give away or award, so it may take a *tiny* bit more effort (well worth it, but more
+effort) . Then, events are a lot of work to put on, but if you run them, they more than
+pay for themselves in p roof alone. And finally, although I love lifecycle ads a lot, they
+take the most editing horsepower. Which makes them both very unique, but also time­
+consuming. Good thing there are people who will work in exchange for money!
+
+   On the next page, I'll provide a tear out of all nine components of the Marketing
+Machine on one page so you can reference it regularly. Or, just put it on your wall as a
+reminder.
+
+    This is the best way I know to make even more money from things you, to some
+extent, already do. Which by my definition, gives you leverage.
+
+
+
+
+                       Copyrigh t © 2025 by BUM BLE IP, LLC N OT FOR DI STRIBUTION           23
+
+===== PDF PAGE 30 =====
+                              $ 1 00M PLAYBOO K: MARKETING MACHINE
+
+
+     Happy hunting (and capturin g) !
+
+
+
+
+     Alex
+
+
+PS - Please actually do at least one. You will make more money.
+
+PPS - And if you have a small amount of customers, refer to the Warm Outreach chapter
+in $1 DOM Leads-work for free. Get those testimonials. Then you can start the flow of
+customers that follow and begin to spin the wheel.
+
+
+
+
+     DO YOU WANT TO SCALE YO U R BUS I N ESS?
+
+     Scal i ng you r advertisi ng comes down to generati ng more, better, and new ads.
+     More bette r n ew a ds means more better new customers rel iably. Reliable
+     ways of getti ng new customers m eans a ve ry val uab l e business. Bu ild ing a
+     marketi ng m ac h i n e does it al l for you . As long as the busi ness fu nctions, it
+     can feed itself n ew cu stome rs mo nth after month after month. Without a
+     marketi ng mac h i n e, yo u're d oom ed to always figu ri ng out the next ad . Yoµ're
+     only as good as you r l ast cam paign . I n s hort, without one,
+     getting new business always re l ies on you .
+
+     I f you'd l i ke m y help build i ng a marketing machi ne that gets
+     customers without you : BOO K A 1 - O N - 1 CALL AT:
+     AC Q U I SITI O N .COM/SCALE. You can also scan the QR
+     c o d e if yo u hate typing.                                                         SCAN M E
+
+
+
+
+24                      Co p)'right © 2 0 2 5 by BUMBLE   rn LLC NOT FOR DISTRI B UTION
+
+===== PDF PAGE 31 =====
+        Marketing Machine Implementation Checklist
+
+D Testimonial Competition using six-point script
+
+       □ Post Screenshots
+       □ Videos in email
+□ Chat/Messaging Scrape Ads
+       D Screenshots
+
+       D Screen recordings if you have a thread of all customers replyin g in volume
+
+D Community Scrape Ads
+
+       D Screenshots
+       D Screen recordings if you have a thread of all customers commenting in volume
+
+              D Screen record your "wins" tab in your community if your platform
+                has one
+
+              D Search for a term then screen record all the ones that come up, this
+                will give you a more curated list of posts that are likely compelling
+
+D Reviews Scrape Ads
+
+       D Screenshots
+
+       D Screen recordings if you have a thread of all customers replyin g in volume
+
+D Social Media Saves
+
+       D Save images and stories on all platforms for yourself
+
+       D Search and save images and stories from your customers and their tags
+
+D Bonus Unlock Ads
+
+       D Videos in email
+       D Screenshots
+
+D Award Unlock Ads
+
+       D Videos in email
+
+       D Unboxing Videos
+
+
+                     Copyright © 2025 by B U M B LE I I� LLC N OT FOR DISTRI BUTION    25
+
+===== PDF PAGE 32 =====
+                         $ 1 00M PLAYBOOKc MARKETING MACHINE
+
+
+
+       □ Screenshots
+□ Event Ads
+      □ Stage videos and pies
+      □ Pro testimonials using six-point script
+      □ Man in the Street testimonial compilations
+□ Lifecycle
+      □ Cut up the customers who won awards, hit milestones, or ascended, into one
+          "lifecycle" video
+
+
+
+
+26                  Copydght © 2025 hy BUMBLE IP, LLC NOT FOR DISTRIBUTION

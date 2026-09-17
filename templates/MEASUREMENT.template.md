@@ -32,6 +32,17 @@ QA CHECKLIST (before delivering the instantiated doc):
 
 ## Funnel KPIs (weekly)
 
+## Stage definitions and assumptions
+
+| Stage | Model-appropriate definition | Owner / source of truth | Assumption or confirmed evidence |
+| --- | --- | --- | --- |
+| Contactable | {{CONTACTABLE_STAGE_DEFINITION}} <!-- source: intake §1A.4 --> | {{CONTACTABLE_OWNER}} | {{CONTACTABLE_EVIDENCE_STATUS}} |
+| Engaged | {{ENGAGED_STAGE_DEFINITION}} <!-- source: intake §1A.4 --> | {{ENGAGED_OWNER}} | {{ENGAGED_EVIDENCE_STATUS}} |
+| Qualified / valuable | {{QUALIFIED_STAGE_DEFINITION}} <!-- source: intake §1A.4 --> | {{QUALIFIED_OWNER}} | {{QUALIFIED_EVIDENCE_STATUS}} |
+| Customer / retained customer | {{RETAINED_CUSTOMER_DEFINITION}} <!-- source: intake §1A.7 --> | {{REVENUE_OWNER}} | {{RETENTION_EVIDENCE_STATUS}} |
+
+Use `contactable → engaged → qualified → customer → retained` only where it matches the model. For lead-gen, add response, scheduled, show, and close stages; for app, activation and paid/retained stages; for ecommerce, purchase and repeat-purchase stages. All targets are assumptions until a named owner validates them.
+
 | Stage | Metric | Source | Target/band (v1 — revise after month 2) |
 |---|---|---|---|
 | Ad | Spend, CPM, CTR (link), frequency | {{AD_PLATFORM}} <!-- source: PRD --> ads manager / export | CTR ≥1%; **frequency <3.5** (above = fatigue) |
@@ -58,6 +69,18 @@ QA CHECKLIST (before delivering the instantiated doc):
 | Repeat/AOV | AOV, repeat-purchase rate, 90-day LTV by acquisition creative | {{REVENUE_SYSTEM}} | AOV ≥ {{AOV_TARGET}} ; LTV pays back CAC within {{PAYBACK_WINDOW}} |
 <!-- /MODEL -->
 | Organic | Saves per post (primary), plus DMs/inbound attributed | platform insights | trend, not absolute |
+
+## Economics and retention measurements
+
+| Measure | Formula | Owner / system | Assumption and action |
+| --- | --- | --- | --- |
+| Engaged-lead rate | engaged leads ÷ contactable leads | {{CRM_OR_ANALYTICS}} | {{ENGAGEMENT_RATE_ASSUMPTION}} <!-- source: intake §1A.4 --> |
+| Qualified rate | qualified leads/customers ÷ engaged leads | {{CRM_OR_ANALYTICS}} | {{QUALIFICATION_RATE_ASSUMPTION}} |
+| Response / show / close rate (lead-gen only) | responses ÷ follow-ups; shows ÷ scheduled; customers ÷ shows | {{CRM}} | {{SALES_RATE_ASSUMPTION}} <!-- source: intake §1A.6 --> |
+| CAC | paid acquisition spend ÷ new customers | {{REVENUE_SYSTEM}} | {{CAC_ASSUMPTION}} <!-- source: intake §1/§1A.7 --> |
+| Contribution margin | revenue − directly attributable delivery/fulfillment cost | {{REVENUE_SYSTEM}} | {{MARGIN_ASSUMPTION}} |
+| LTV | gross profit collected over customer lifespan (state cohort/window) | {{REVENUE_SYSTEM}} | {{LTV_ASSUMPTION}} |
+| Retention / repeat | retained customers ÷ eligible cohort; repeat buyers ÷ customers | {{REVENUE_SYSTEM}} | {{RETENTION_ASSUMPTION}}; owner reviews cohort feedback |
 
 
 
